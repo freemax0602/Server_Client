@@ -1,0 +1,1697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @322)" Category="CodeSchema_ProjectItem" Bounds="144.844666743746,207.994000231237,139.341333410412,25.998000077079" FilePath="$(VsSolution)\messangerserver\messangerserver.h" Label="messangerserver.h" />
+    <Node Id="(@1 @459)" Category="CodeSchema_ProjectItem" Bounds="314.186000154158,207.994000231237,148.224666743746,25.998000077079" FilePath="$(VsSolution)\MessangerServer\MsgProtoServer.cpp" Label="MsgProtoServer.cpp" />
+    <Node Id="(@1 @460)" Category="CodeSchema_ProjectItem" Bounds="492.410666897904,207.994000231237,152.201333410412,25.998000077079" FilePath="$(VsSolution)\messangerserver\messangerserver.cpp" Label="messangerserver.cpp" />
+    <Node Id="(@1 @465)" Category="CodeSchema_ProjectItem" Bounds="20,207.994000231237,94.8446667437457,25.998000077079" FilePath="$(VsSolution)\MessangerServer\stdafx.cpp" Label="stdafx.cpp" />
+    <Node Id="(@3 @327)" Category="CodeSchema_ProjectItem" Bounds="20,434.990000385395,98.3413334104124,25.998000077079" FilePath="$(VsSolution)\MessangerClient\targetver.h" Label="targetver.h" />
+    <Node Id="(@3 @436)" Category="CodeSchema_ProjectItem" Bounds="20,378.992000308316,81.9846667437457,25.998000077079" FilePath="$(VsSolution)\MessangerClient\stdafx.h" Label="stdafx.h" />
+    <Node Id="(@3 @463)" Category="CodeSchema_ProjectItem" Bounds="148.341333410412,434.990000385395,148.951333410412,25.998000077079" FilePath="$(VsSolution)\messangerclient\messangerclient.cpp" Label="messangerclient.cpp" />
+    <Node Id="(@3 @464)" Category="CodeSchema_ProjectItem" Bounds="20,490.988000462474,151.448000077079,25.998000077079" FilePath="$(VsSolution)\MessangerClient\MessengerClient.cpp" Label="MessengerClient.cpp" />
+    <Node Id="(@3 @466)" Category="CodeSchema_ProjectItem" Bounds="131.984666743746,378.992000308316,94.8446667437457,25.998000077079" FilePath="$(VsSolution)\MessangerClient\stdafx.cpp" Label="stdafx.cpp" />
+    <Node Id="@101" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h" Label="minwindef.h" />
+    <Node Id="@103" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\windef.h" Label="windef.h" />
+    <Node Id="@105" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings_undef.h" Label="specstrings_undef.h" />
+    <Node Id="@107" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\ws2ipdef.h" Label="ws2ipdef.h" />
+    <Node Id="@109" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winperf.h" Label="winperf.h" />
+    <Node Id="@11" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h" Label="pshpack1.h" />
+    <Node Id="@111" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winreg.h" Label="winreg.h" />
+    <Node Id="@113" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h" Label="corecrt_stdio_config.h" />
+    <Node Id="@115" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\commdlg.h" Label="commdlg.h" />
+    <Node Id="@117" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\mbstring.h" Label="mbstring.h" />
+    <Node Id="@119" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h" Label="corecrt_wstring.h" />
+    <Node Id="@121" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h" Label="string.h" />
+    <Node Id="@123" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h" Label="vcruntime_string.h" />
+    <Node Id="@125" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\stdarg.h" Label="stdarg.h" />
+    <Node Id="@127" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h" Label="corecrt_search.h" />
+    <Node Id="@129" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\wingdi.h" Label="wingdi.h" />
+    <Node Id="@13" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\Ole2.h" Label="Ole2.h" />
+    <Node Id="@131" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\coml2api.h" Label="coml2api.h" />
+    <Node Id="@133" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\jobapi.h" Label="jobapi.h" />
+    <Node Id="@135" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi.h" Label="mmiscapi.h" />
+    <Node Id="@137" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\interlockedapi.h" Label="interlockedapi.h" />
+    <Node Id="@139" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\playsoundapi.h" Label="playsoundapi.h" />
+    <Node Id="@141" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\namespaceapi.h" Label="namespaceapi.h" />
+    <Node Id="@143" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\handleapi.h" Label="handleapi.h" />
+    <Node Id="@145" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\profileapi.h" Label="profileapi.h" />
+    <Node Id="@147" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\fileapi.h" Label="fileapi.h" />
+    <Node Id="@149" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi.h" Label="consoleapi.h" />
+    <Node Id="@15" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\jobapi2.h" Label="jobapi2.h" />
+    <Node Id="@151" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\datetimeapi.h" Label="datetimeapi.h" />
+    <Node Id="@153" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\timeapi.h" Label="timeapi.h" />
+    <Node Id="@155" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mmeapi.h" Label="mmeapi.h" />
+    <Node Id="@157" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\timezoneapi.h" Label="timezoneapi.h" />
+    <Node Id="@159" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\namedpipeapi.h" Label="namedpipeapi.h" />
+    <Node Id="@161" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\combaseapi.h" Label="combaseapi.h" />
+    <Node Id="@163" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h" Label="securitybaseapi.h" />
+    <Node Id="@165" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\enclaveapi.h" Label="enclaveapi.h" />
+    <Node Id="@167" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\errhandlingapi.h" Label="errhandlingapi.h" />
+    <Node Id="@169" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\debugapi.h" Label="debugapi.h" />
+    <Node Id="@17" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi2.h" Label="mmiscapi2.h" />
+    <Node Id="@171" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\synchapi.h" Label="synchapi.h" />
+    <Node Id="@173" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mciapi.h" Label="mciapi.h" />
+    <Node Id="@175" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\WSPiApi.h" Label="WSPiApi.h" />
+    <Node Id="@177" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\joystickapi.h" Label="joystickapi.h" />
+    <Node Id="@179" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\shellapi.h" Label="shellapi.h" />
+    <Node Id="@181" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\sysinfoapi.h" Label="sysinfoapi.h" />
+    <Node Id="@183" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\heapapi.h" Label="heapapi.h" />
+    <Node Id="@185" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\dpapi.h" Label="dpapi.h" />
+    <Node Id="@187" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\libloaderapi.h" Label="libloaderapi.h" />
+    <Node Id="@189" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\processthreadsapi.h" Label="processthreadsapi.h" />
+    <Node Id="@19" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi2.h" Label="consoleapi2.h" />
+    <Node Id="@191" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\fibersapi.h" Label="fibersapi.h" />
+    <Node Id="@193" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\systemtopologyapi.h" Label="systemtopologyapi.h" />
+    <Node Id="@195" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\processtopologyapi.h" Label="processtopologyapi.h" />
+    <Node Id="@197" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\memoryapi.h" Label="memoryapi.h" />
+    <Node Id="@199" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\rpcnsi.h" Label="rpcnsi.h" />
+    <Node Id="@2" Category="CodeSchema_PoundIncludeFile" Bounds="0,0,703.363000077079,253.992000308316" FilePath="$(VsSolution)\MessangerServer\MessengerServer.vcxproj" Group="Expanded" Label="MessengerServer.vcxproj" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@201" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h" Label="poppack.h" />
+    <Node Id="@203" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winsock.h" Label="winsock.h" />
+    <Node Id="@205" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\wsipv6ok.h" Label="wsipv6ok.h" />
+    <Node Id="@207" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winnetwk.h" Label="winnetwk.h" />
+    <Node Id="@209" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpcsal.h" Label="rpcsal.h" />
+    <Node Id="@21" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h" Label="pshpack2.h" />
+    <Node Id="@211" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h" Label="concurrencysal.h" />
+    <Node Id="@213" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\sal.h" Label="sal.h" />
+    <Node Id="@215" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\OAIdl.h" Label="OAIdl.h" />
+    <Node Id="@217" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\oleidl.h" Label="oleidl.h" />
+    <Node Id="@219" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ObjIdl.h" Label="ObjIdl.h" />
+    <Node Id="@221" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\PropIdl.h" Label="PropIdl.h" />
+    <Node Id="@223" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ddeml.h" Label="ddeml.h" />
+    <Node Id="@225" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\msxml.h" Label="msxml.h" />
+    <Node Id="@227" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winspool.h" Label="winspool.h" />
+    <Node Id="@229" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winioctl.h" Label="winioctl.h" />
+    <Node Id="@23" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\WinSock2.h" Label="WinSock2.h" />
+    <Node Id="@231" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\fcntl.h" Label="fcntl.h" />
+    <Node Id="@233" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mmsystem.h" Label="mmsystem.h" />
+    <Node Id="@235" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\imm.h" Label="imm.h" />
+    <Node Id="@237" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h" Label="mmsyscom.h" />
+    <Node Id="@239" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\stralign.h" Label="stralign.h" />
+    <Node Id="@241" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\ammintrin.h" Label="ammintrin.h" />
+    <Node Id="@243" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\emmintrin.h" Label="emmintrin.h" />
+    <Node Id="@245" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\immintrin.h" Label="immintrin.h" />
+    <Node Id="@247" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\nmmintrin.h" Label="nmmintrin.h" />
+    <Node Id="@249" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\pmmintrin.h" Label="pmmintrin.h" />
+    <Node Id="@25" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\no_sal2.h" Label="no_sal2.h" />
+    <Node Id="@251" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\smmintrin.h" Label="smmintrin.h" />
+    <Node Id="@253" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\tmmintrin.h" Label="tmmintrin.h" />
+    <Node Id="@255" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\wmmintrin.h" Label="wmmintrin.h" />
+    <Node Id="@257" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\xmmintrin.h" Label="xmmintrin.h" />
+    <Node Id="@259" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\zmmintrin.h" Label="zmmintrin.h" />
+    <Node Id="@261" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\mmintrin.h" Label="mmintrin.h" />
+    <Node Id="@263" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\intrin.h" Label="intrin.h" />
+    <Node Id="@265" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\wincon.h" Label="wincon.h" />
+    <Node Id="@267" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\arm64_neon.h" Label="arm64_neon.h" />
+    <Node Id="@269" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\arm_neon.h" Label="arm_neon.h" />
+    <Node Id="@27" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\apiquery2.h" Label="apiquery2.h" />
+    <Node Id="@271" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\urlmon.h" Label="urlmon.h" />
+    <Node Id="@273" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\reason.h" Label="reason.h" />
+    <Node Id="@275" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\Unknwn.h" Label="Unknwn.h" />
+    <Node Id="@277" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h" Label="corecrt_wstdio.h" />
+    <Node Id="@279" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h" Label="stdio.h" />
+    <Node Id="@281" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h" Label="corecrt_wconio.h" />
+    <Node Id="@283" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h" Label="corecrt_wio.h" />
+    <Node Id="@285" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\io.h" Label="io.h" />
+    <Node Id="@287" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_io.h" Label="corecrt_io.h" />
+    <Node Id="@289" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h" Label="errno.h" />
+    <Node Id="@29" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi3.h" Label="consoleapi3.h" />
+    <Node Id="@291" Category="CodeSchema_ProjectItem" Bounds="415.508333333333,151.996000154158,102.344666743746,25.998000077079" FilePath="$(VsSolution)\MessangerServer\MsgProto.h" Label="MsgProto.h" />
+    <Node Id="@293" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\OleAuto.h" Label="OleAuto.h" />
+    <Node Id="@295" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpcdcep.h" Label="rpcdcep.h" />
+    <Node Id="@297" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\WS2tcpip.h" Label="WS2tcpip.h" />
+    <Node Id="@299" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\rpcnsip.h" Label="rpcnsip.h" />
+    <Node Id="@301" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\setjmp.h" Label="setjmp.h" />
+    <Node Id="@303" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\tchar.h" Label="tchar.h" />
+    <Node Id="@305" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Label="wchar.h" />
+    <Node Id="@307" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\in6addr.h" Label="in6addr.h" />
+    <Node Id="@309" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\inaddr.h" Label="inaddr.h" />
+    <Node Id="@31" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h" Label="pshpack4.h" />
+    <Node Id="@311" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpcndr.h" Label="rpcndr.h" />
+    <Node Id="@313" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\securityappcontainer.h" Label="securityappcontainer.h" />
+    <Node Id="@315" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\WinUser.h" Label="WinUser.h" />
+    <Node Id="@317" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\sdkddkver.h" Label="sdkddkver.h" />
+    <Node Id="@319" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winver.h" Label="winver.h" />
+    <Node Id="@321" Category="CodeSchema_ProjectItem" Bounds="547.998333333333,151.996000154158,135.364666743746,25.998000077079" FilePath="$(VsSolution)\MessangerServer\MsgProtoServer.h" Label="MsgProtoServer.h" />
+    <Node Id="@324" Category="CodeSchema_ProjectItem" Bounds="244.065,151.996000154158,141.231333410412,25.998000077079" FilePath="$(VsSolution)\MessangerServer\MessengerServer.h" Label="MessengerServer.h" />
+    <Node Id="@326" Category="CodeSchema_ProjectItem" Bounds="115.51,151.996000154158,98.3413334104124,25.998000077079" FilePath="$(VsSolution)\MessangerServer\targetver.h" Label="targetver.h" />
+    <Node Id="@329" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h" Label="winerror.h" />
+    <Node Id="@33" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h" Label="pshpack8.h" />
+    <Node Id="@331" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\cderr.h" Label="cderr.h" />
+    <Node Id="@333" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\SCardErr.h" Label="SCardErr.h" />
+    <Node Id="@335" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpcnterr.h" Label="rpcnterr.h" />
+    <Node Id="@337" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\arm64intr.h" Label="arm64intr.h" />
+    <Node Id="@339" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\armintr.h" Label="armintr.h" />
+    <Node Id="@341" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\kernelspecs.h" Label="kernelspecs.h" />
+    <Node Id="@343" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\driverspecs.h" Label="driverspecs.h" />
+    <Node Id="@345" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\sdv_driverspecs.h" Label="sdv_driverspecs.h" />
+    <Node Id="@347" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ime_cmodes.h" Label="ime_cmodes.h" />
+    <Node Id="@349" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\ktmtypes.h" Label="ktmtypes.h" />
+    <Node Id="@35" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h" Label="corecrt_wstdlib.h" />
+    <Node Id="@351" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\wincontypes.h" Label="wincontypes.h" />
+    <Node Id="@353" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\wtypes.h" Label="wtypes.h" />
+    <Node Id="@355" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\types.h" Label="types.h" />
+    <Node Id="@357" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\vadefs.h" Label="vadefs.h" />
+    <Node Id="@359" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winefs.h" Label="winefs.h" />
+    <Node Id="@361" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\dlgs.h" Label="dlgs.h" />
+    <Node Id="@363" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings.h" Label="specstrings.h" />
+    <Node Id="@365" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\WinNls.h" Label="WinNls.h" />
+    <Node Id="@367" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\CodeAnalysis\sourceannotations.h" Label="sourceannotations.h" />
+    <Node Id="@369" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\qos.h" Label="qos.h" />
+    <Node Id="@37" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" Label="stdlib.h" />
+    <Node Id="@371" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h" Label="corecrt_wprocess.h" />
+    <Node Id="@373" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\limits.h" Label="limits.h" />
+    <Node Id="@375" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\Windows.h" Label="Windows.h" />
+    <Node Id="@377" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h" Label="corecrt_memcpy_s.h" />
+    <Node Id="@379" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h" Label="stat.h" />
+    <Node Id="@381" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h" Label="corecrt_wdirect.h" />
+    <Node Id="@383" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings_strict.h" Label="specstrings_strict.h" />
+    <Node Id="@385" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\wow64apiset.h" Label="wow64apiset.h" />
+    <Node Id="@387" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\realtimeapiset.h" Label="realtimeapiset.h" />
+    <Node Id="@389" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\stringapiset.h" Label="stringapiset.h" />
+    <Node Id="@39" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\wnnc.h" Label="wnnc.h" />
+    <Node Id="@391" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\utilapiset.h" Label="utilapiset.h" />
+    <Node Id="@393" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\threadpoolapiset.h" Label="threadpoolapiset.h" />
+    <Node Id="@395" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ioapiset.h" Label="ioapiset.h" />
+    <Node Id="@397" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\threadpoollegacyapiset.h" Label="threadpoollegacyapiset.h" />
+    <Node Id="@399" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\apiset.h" Label="apiset.h" />
+    <Node Id="@4" Category="CodeSchema_PoundIncludeFile" Bounds="0,338.992000308316,317.292666820825,197.994000231237" FilePath="$(VsSolution)\MessangerClient\MessengerClient.vcxproj" Group="Expanded" Label="MessengerClient.vcxproj" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@401" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\prsht.h" Label="prsht.h" />
+    <Node Id="@403" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\stdint.h" Label="stdint.h" />
+    <Node Id="@405" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winnt.h" Label="winnt.h" />
+    <Node Id="@407" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\excpt.h" Label="excpt.h" />
+    <Node Id="@409" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\bcrypt.h" Label="bcrypt.h" />
+    <Node Id="@41" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpcasync.h" Label="rpcasync.h" />
+    <Node Id="@411" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\wincrypt.h" Label="wincrypt.h" />
+    <Node Id="@413" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ncrypt.h" Label="ncrypt.h" />
+    <Node Id="@415" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h" Label="corecrt.h" />
+    <Node Id="@417" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\ipv6prefast.h" Label="ipv6prefast.h" />
+    <Node Id="@419" Category="CodeSchema_ProjectItem" Bounds="20,151.996000154158,65.3613334104124,25.998000077079" FilePath="$(VsSolution)\MessangerServer\list.h" Label="list.h" />
+    <Node Id="@421" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\tvout.h" Label="tvout.h" />
+    <Node Id="@423" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\processenv.h" Label="processenv.h" />
+    <Node Id="@425" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\apisetcconv.h" Label="apisetcconv.h" />
+    <Node Id="@427" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\servprov.h" Label="servprov.h" />
+    <Node Id="@429" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\mm3dnow.h" Label="mm3dnow.h" />
+    <Node Id="@43" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h" Label="malloc.h" />
+    <Node Id="@431" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\mcx.h" Label="mcx.h" />
+    <Node Id="@433" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\setjmpex.h" Label="setjmpex.h" />
+    <Node Id="@435" Category="CodeSchema_ProjectItem" Bounds="273.688333333333,95.998000077079,81.9846667437457,25.998000077079" FilePath="$(VsSolution)\MessangerServer\stdafx.h" Label="stdafx.h" />
+    <Node Id="@438" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\winpackagefamily.h" Label="winpackagefamily.h" />
+    <Node Id="@440" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\winapifamily.h" Label="winapifamily.h" />
+    <Node Id="@442" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h" Label="corecrt_memory.h" />
+    <Node Id="@444" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\dde.rh" Label="dde.rh" />
+    <Node Id="@446" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\commctrl.rh" Label="commctrl.rh" />
+    <Node Id="@448" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winuser.rh" Label="winuser.rh" />
+    <Node Id="@45" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h" Label="corecrt_malloc.h" />
+    <Node Id="@450" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winnt.rh" Label="winnt.rh" />
+    <Node Id="@452" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winbase.inl" Label="winbase.inl" />
+    <Node Id="@454" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\commdlg.inl" Label="commdlg.inl" />
+    <Node Id="@456" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winuser.inl" Label="winuser.inl" />
+    <Node Id="@458" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\prsht.inl" Label="prsht.inl" />
+    <Node Id="@462" Category="CodeSchema_ProjectItem" Bounds="237.635,40,154.091333410412,25.998000077079" FilePath="$(VsSolution)\MessangerServer\MessengerServer.cpp" Label="MessengerServer.cpp" />
+    <Node Id="@47" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpc.h" Label="rpc.h" />
+    <Node Id="@49" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winresrc.h" Label="winresrc.h" />
+    <Node Id="@51" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\verrsrc.h" Label="verrsrc.h" />
+    <Node Id="@53" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winsvc.h" Label="winsvc.h" />
+    <Node Id="@55" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\cguid.h" Label="cguid.h" />
+    <Node Id="@57" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\lzexpand.h" Label="lzexpand.h" />
+    <Node Id="@59" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\winscard.h" Label="winscard.h" />
+    <Node Id="@61" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\winsmcrd.h" Label="winsmcrd.h" />
+    <Node Id="@63" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\basetsd.h" Label="basetsd.h" />
+    <Node Id="@65" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\rpcdce.h" Label="rpcdce.h" />
+    <Node Id="@67" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\dde.h" Label="dde.h" />
+    <Node Id="@69" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ole.h" Label="ole.h" />
+    <Node Id="@7" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\nb30.h" Label="nb30.h" />
+    <Node Id="@71" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\vcruntime.h" Label="vcruntime.h" />
+    <Node Id="@73" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h" Label="corecrt_wtime.h" />
+    <Node Id="@75" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h" Label="corecrt_wctype.h" />
+    <Node Id="@77" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h" Label="ctype.h" />
+    <Node Id="@79" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h" Label="corecrt_share.h" />
+    <Node Id="@81" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\objbase.h" Label="objbase.h" />
+    <Node Id="@83" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\ObjIdlbase.h" Label="ObjIdlbase.h" />
+    <Node Id="@85" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\PropIdlBase.h" Label="PropIdlBase.h" />
+    <Node Id="@87" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\minwinbase.h" Label="minwinbase.h" />
+    <Node Id="@89" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\WinBase.h" Label="WinBase.h" />
+    <Node Id="@9" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\VC\Tools\MSVC\14.16.27023\include\intrin0.h" Label="intrin0.h" />
+    <Node Id="@91" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\um\Unknwnbase.h" Label="Unknwnbase.h" />
+    <Node Id="@93" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\WTypesbase.h" Label="WTypesbase.h" />
+    <Node Id="@95" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\ws2def.h" Label="ws2def.h" />
+    <Node Id="@97" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\shared\guiddef.h" Label="guiddef.h" />
+    <Node Id="@99" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h" Label="stddef.h" />
+    <Node Id="G4" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" Label="Windows SDK" />
+    <Node Id="OthersGroup" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" Label="Others" />
+    <Node Id="PoundIncludeGraphExternalsGroup" Category="Externals" Bounds="308.18650003854,283.992000308316,86.99,25" Group="Collapsed" Label="Externals" />
+    <Node Id="Windows SDK Indirectly Included" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" Label="Indirectly Included" />
+  </Nodes>
+  <Links>
+    <Link Source="@101" Target="@363" Category="PoundInclude" />
+    <Link Source="@101" Target="@405" Category="PoundInclude" />
+    <Link Source="@101" Target="@440" Category="PoundInclude" />
+    <Link Source="@103" Target="@101" Category="PoundInclude" />
+    <Link Source="@103" Target="@405" Category="PoundInclude" />
+    <Link Source="@103" Target="@440" Category="PoundInclude" />
+    <Link Source="@107" Target="@307" Category="PoundInclude" />
+    <Link Source="@107" Target="@440" Category="PoundInclude" />
+    <Link Source="@109" Target="@201" Category="PoundInclude" />
+    <Link Source="@109" Target="@33" Category="PoundInclude" />
+    <Link Source="@109" Target="@440" Category="PoundInclude" />
+    <Link Source="@111" Target="@101" Category="PoundInclude" />
+    <Link Source="@111" Target="@273" Category="PoundInclude" />
+    <Link Source="@111" Target="@399" Category="PoundInclude" />
+    <Link Source="@111" Target="@425" Category="PoundInclude" />
+    <Link Source="@111" Target="@440" Category="PoundInclude" />
+    <Link Source="@111" Target="@87" Category="PoundInclude" />
+    <Link Source="@113" Target="@415" Category="PoundInclude" />
+    <Link Source="@115" Target="@11" Category="PoundInclude" />
+    <Link Source="@115" Target="@201" Category="PoundInclude" />
+    <Link Source="@115" Target="@401" Category="PoundInclude" />
+    <Link Source="@115" Target="@440" Category="PoundInclude" />
+    <Link Source="@115" Target="@454" Category="PoundInclude" />
+    <Link Source="@117" Target="@415" Category="PoundInclude" />
+    <Link Source="@119" Target="@123" Category="PoundInclude" />
+    <Link Source="@119" Target="@415" Category="PoundInclude" />
+    <Link Source="@121" Target="@119" Category="PoundInclude" />
+    <Link Source="@121" Target="@123" Category="PoundInclude" />
+    <Link Source="@121" Target="@415" Category="PoundInclude" />
+    <Link Source="@121" Target="@442" Category="PoundInclude" />
+    <Link Source="@123" Target="@71" Category="PoundInclude" />
+    <Link Source="@125" Target="@71" Category="PoundInclude" />
+    <Link Source="@127" Target="@415" Category="PoundInclude" />
+    <Link Source="@127" Target="@99" Category="PoundInclude" />
+    <Link Source="@129" Target="@11" Category="PoundInclude" />
+    <Link Source="@129" Target="@201" Category="PoundInclude" />
+    <Link Source="@129" Target="@21" Category="PoundInclude" />
+    <Link Source="@129" Target="@31" Category="PoundInclude" />
+    <Link Source="@129" Target="@440" Category="PoundInclude" />
+    <Link Source="@13" Target="@131" Category="PoundInclude" />
+    <Link Source="@13" Target="@201" Category="PoundInclude" />
+    <Link Source="@13" Target="@217" Category="PoundInclude" />
+    <Link Source="@13" Target="@293" Category="PoundInclude" />
+    <Link Source="@13" Target="@329" Category="PoundInclude" />
+    <Link Source="@13" Target="@33" Category="PoundInclude" />
+    <Link Source="@13" Target="@440" Category="PoundInclude" />
+    <Link Source="@13" Target="@81" Category="PoundInclude" />
+    <Link Source="@131" Target="@161" Category="PoundInclude" />
+    <Link Source="@131" Target="@219" Category="PoundInclude" />
+    <Link Source="@131" Target="@399" Category="PoundInclude" />
+    <Link Source="@131" Target="@425" Category="PoundInclude" />
+    <Link Source="@131" Target="@85" Category="PoundInclude" />
+    <Link Source="@133" Target="@101" Category="PoundInclude" />
+    <Link Source="@133" Target="@399" Category="PoundInclude" />
+    <Link Source="@133" Target="@425" Category="PoundInclude" />
+    <Link Source="@133" Target="@87" Category="PoundInclude" />
+    <Link Source="@135" Target="@237" Category="PoundInclude" />
+    <Link Source="@135" Target="@399" Category="PoundInclude" />
+    <Link Source="@135" Target="@425" Category="PoundInclude" />
+    <Link Source="@137" Target="@101" Category="PoundInclude" />
+    <Link Source="@137" Target="@399" Category="PoundInclude" />
+    <Link Source="@137" Target="@425" Category="PoundInclude" />
+    <Link Source="@139" Target="@237" Category="PoundInclude" />
+    <Link Source="@139" Target="@399" Category="PoundInclude" />
+    <Link Source="@139" Target="@425" Category="PoundInclude" />
+    <Link Source="@141" Target="@101" Category="PoundInclude" />
+    <Link Source="@141" Target="@399" Category="PoundInclude" />
+    <Link Source="@141" Target="@425" Category="PoundInclude" />
+    <Link Source="@141" Target="@87" Category="PoundInclude" />
+    <Link Source="@143" Target="@101" Category="PoundInclude" />
+    <Link Source="@143" Target="@399" Category="PoundInclude" />
+    <Link Source="@143" Target="@425" Category="PoundInclude" />
+    <Link Source="@145" Target="@101" Category="PoundInclude" />
+    <Link Source="@145" Target="@399" Category="PoundInclude" />
+    <Link Source="@145" Target="@425" Category="PoundInclude" />
+    <Link Source="@147" Target="@101" Category="PoundInclude" />
+    <Link Source="@147" Target="@399" Category="PoundInclude" />
+    <Link Source="@147" Target="@425" Category="PoundInclude" />
+    <Link Source="@147" Target="@87" Category="PoundInclude" />
+    <Link Source="@149" Target="@101" Category="PoundInclude" />
+    <Link Source="@149" Target="@351" Category="PoundInclude" />
+    <Link Source="@149" Target="@399" Category="PoundInclude" />
+    <Link Source="@149" Target="@425" Category="PoundInclude" />
+    <Link Source="@149" Target="@87" Category="PoundInclude" />
+    <Link Source="@15" Target="@101" Category="PoundInclude" />
+    <Link Source="@15" Target="@399" Category="PoundInclude" />
+    <Link Source="@15" Target="@425" Category="PoundInclude" />
+    <Link Source="@15" Target="@87" Category="PoundInclude" />
+    <Link Source="@151" Target="@101" Category="PoundInclude" />
+    <Link Source="@151" Target="@399" Category="PoundInclude" />
+    <Link Source="@151" Target="@425" Category="PoundInclude" />
+    <Link Source="@151" Target="@87" Category="PoundInclude" />
+    <Link Source="@153" Target="@237" Category="PoundInclude" />
+    <Link Source="@153" Target="@399" Category="PoundInclude" />
+    <Link Source="@153" Target="@425" Category="PoundInclude" />
+    <Link Source="@155" Target="@237" Category="PoundInclude" />
+    <Link Source="@155" Target="@399" Category="PoundInclude" />
+    <Link Source="@155" Target="@425" Category="PoundInclude" />
+    <Link Source="@157" Target="@101" Category="PoundInclude" />
+    <Link Source="@157" Target="@399" Category="PoundInclude" />
+    <Link Source="@157" Target="@425" Category="PoundInclude" />
+    <Link Source="@157" Target="@87" Category="PoundInclude" />
+    <Link Source="@159" Target="@101" Category="PoundInclude" />
+    <Link Source="@159" Target="@399" Category="PoundInclude" />
+    <Link Source="@159" Target="@425" Category="PoundInclude" />
+    <Link Source="@159" Target="@87" Category="PoundInclude" />
+    <Link Source="@161" Target="@201" Category="PoundInclude" />
+    <Link Source="@161" Target="@311" Category="PoundInclude" />
+    <Link Source="@161" Target="@33" Category="PoundInclude" />
+    <Link Source="@161" Target="@37" Category="PoundInclude" />
+    <Link Source="@161" Target="@399" Category="PoundInclude" />
+    <Link Source="@161" Target="@425" Category="PoundInclude" />
+    <Link Source="@161" Target="@47" Category="PoundInclude" />
+    <Link Source="@161" Target="@55" Category="PoundInclude" />
+    <Link Source="@161" Target="@83" Category="PoundInclude" />
+    <Link Source="@161" Target="@91" Category="PoundInclude" />
+    <Link Source="@161" Target="@93" Category="PoundInclude" />
+    <Link Source="@161" Target="@97" Category="PoundInclude" />
+    <Link Source="@163" Target="@101" Category="PoundInclude" />
+    <Link Source="@163" Target="@399" Category="PoundInclude" />
+    <Link Source="@163" Target="@425" Category="PoundInclude" />
+    <Link Source="@163" Target="@87" Category="PoundInclude" />
+    <Link Source="@165" Target="@101" Category="PoundInclude" />
+    <Link Source="@165" Target="@399" Category="PoundInclude" />
+    <Link Source="@165" Target="@425" Category="PoundInclude" />
+    <Link Source="@165" Target="@87" Category="PoundInclude" />
+    <Link Source="@167" Target="@101" Category="PoundInclude" />
+    <Link Source="@167" Target="@399" Category="PoundInclude" />
+    <Link Source="@167" Target="@425" Category="PoundInclude" />
+    <Link Source="@169" Target="@101" Category="PoundInclude" />
+    <Link Source="@169" Target="@399" Category="PoundInclude" />
+    <Link Source="@169" Target="@425" Category="PoundInclude" />
+    <Link Source="@169" Target="@87" Category="PoundInclude" />
+    <Link Source="@17" Target="@237" Category="PoundInclude" />
+    <Link Source="@17" Target="@399" Category="PoundInclude" />
+    <Link Source="@17" Target="@425" Category="PoundInclude" />
+    <Link Source="@171" Target="@101" Category="PoundInclude" />
+    <Link Source="@171" Target="@399" Category="PoundInclude" />
+    <Link Source="@171" Target="@425" Category="PoundInclude" />
+    <Link Source="@171" Target="@87" Category="PoundInclude" />
+    <Link Source="@173" Target="@237" Category="PoundInclude" />
+    <Link Source="@173" Target="@399" Category="PoundInclude" />
+    <Link Source="@173" Target="@425" Category="PoundInclude" />
+    <Link Source="@175" Target="@121" Category="PoundInclude" />
+    <Link Source="@175" Target="@279" Category="PoundInclude" />
+    <Link Source="@175" Target="@37" Category="PoundInclude" />
+    <Link Source="@175" Target="@43" Category="PoundInclude" />
+    <Link Source="@175" Target="@440" Category="PoundInclude" />
+    <Link Source="@177" Target="@237" Category="PoundInclude" />
+    <Link Source="@177" Target="@399" Category="PoundInclude" />
+    <Link Source="@177" Target="@425" Category="PoundInclude" />
+    <Link Source="@179" Target="@11" Category="PoundInclude" />
+    <Link Source="@179" Target="@201" Category="PoundInclude" />
+    <Link Source="@179" Target="@363" Category="PoundInclude" />
+    <Link Source="@179" Target="@440" Category="PoundInclude" />
+    <Link Source="@181" Target="@101" Category="PoundInclude" />
+    <Link Source="@181" Target="@399" Category="PoundInclude" />
+    <Link Source="@181" Target="@425" Category="PoundInclude" />
+    <Link Source="@181" Target="@87" Category="PoundInclude" />
+    <Link Source="@183" Target="@101" Category="PoundInclude" />
+    <Link Source="@183" Target="@399" Category="PoundInclude" />
+    <Link Source="@183" Target="@425" Category="PoundInclude" />
+    <Link Source="@183" Target="@87" Category="PoundInclude" />
+    <Link Source="@187" Target="@101" Category="PoundInclude" />
+    <Link Source="@187" Target="@399" Category="PoundInclude" />
+    <Link Source="@187" Target="@425" Category="PoundInclude" />
+    <Link Source="@187" Target="@87" Category="PoundInclude" />
+    <Link Source="@189" Target="@101" Category="PoundInclude" />
+    <Link Source="@189" Target="@399" Category="PoundInclude" />
+    <Link Source="@189" Target="@425" Category="PoundInclude" />
+    <Link Source="@189" Target="@87" Category="PoundInclude" />
+    <Link Source="@19" Target="@101" Category="PoundInclude" />
+    <Link Source="@19" Target="@103" Category="PoundInclude" />
+    <Link Source="@19" Target="@351" Category="PoundInclude" />
+    <Link Source="@19" Target="@399" Category="PoundInclude" />
+    <Link Source="@19" Target="@425" Category="PoundInclude" />
+    <Link Source="@19" Target="@87" Category="PoundInclude" />
+    <Link Source="@191" Target="@101" Category="PoundInclude" />
+    <Link Source="@191" Target="@399" Category="PoundInclude" />
+    <Link Source="@191" Target="@425" Category="PoundInclude" />
+    <Link Source="@193" Target="@101" Category="PoundInclude" />
+    <Link Source="@193" Target="@399" Category="PoundInclude" />
+    <Link Source="@193" Target="@425" Category="PoundInclude" />
+    <Link Source="@193" Target="@87" Category="PoundInclude" />
+    <Link Source="@195" Target="@101" Category="PoundInclude" />
+    <Link Source="@195" Target="@399" Category="PoundInclude" />
+    <Link Source="@195" Target="@425" Category="PoundInclude" />
+    <Link Source="@195" Target="@87" Category="PoundInclude" />
+    <Link Source="@197" Target="@101" Category="PoundInclude" />
+    <Link Source="@197" Target="@399" Category="PoundInclude" />
+    <Link Source="@197" Target="@425" Category="PoundInclude" />
+    <Link Source="@197" Target="@87" Category="PoundInclude" />
+    <Link Source="@199" Target="@440" Category="PoundInclude" />
+    <Link Source="@2" Target="(@1 @322)" Category="Contains" />
+    <Link Source="@2" Target="(@1 @459)" Category="Contains" />
+    <Link Source="@2" Target="(@1 @460)" Category="Contains" />
+    <Link Source="@2" Target="(@1 @465)" Category="Contains" />
+    <Link Source="@2" Target="@291" Category="Contains" />
+    <Link Source="@2" Target="@321" Category="Contains" />
+    <Link Source="@2" Target="@324" Category="Contains" />
+    <Link Source="@2" Target="@326" Category="Contains" />
+    <Link Source="@2" Target="@419" Category="Contains" />
+    <Link Source="@2" Target="@435" Category="Contains" />
+    <Link Source="@2" Target="@462" Category="Contains" />
+    <Link Source="@203" Target="@309" Category="PoundInclude" />
+    <Link Source="@203" Target="@375" Category="PoundInclude" />
+    <Link Source="@203" Target="@440" Category="PoundInclude" />
+    <Link Source="@205" Target="@175" Category="PoundInclude" />
+    <Link Source="@205" Target="@297" Category="PoundInclude" />
+    <Link Source="@205" Target="@440" Category="PoundInclude" />
+    <Link Source="@207" Target="@39" Category="PoundInclude" />
+    <Link Source="@207" Target="@440" Category="PoundInclude" />
+    <Link Source="@209" Target="@363" Category="PoundInclude" />
+    <Link Source="@213" Target="@211" Category="PoundInclude" />
+    <Link Source="@213" Target="@367" Category="PoundInclude" />
+    <Link Source="@215" Target="@13" Category="PoundInclude" />
+    <Link Source="@215" Target="@219" Category="PoundInclude" />
+    <Link Source="@215" Target="@311" Category="PoundInclude" />
+    <Link Source="@215" Target="@375" Category="PoundInclude" />
+    <Link Source="@215" Target="@440" Category="PoundInclude" />
+    <Link Source="@215" Target="@47" Category="PoundInclude" />
+    <Link Source="@217" Target="@13" Category="PoundInclude" />
+    <Link Source="@217" Target="@219" Category="PoundInclude" />
+    <Link Source="@217" Target="@311" Category="PoundInclude" />
+    <Link Source="@217" Target="@375" Category="PoundInclude" />
+    <Link Source="@217" Target="@440" Category="PoundInclude" />
+    <Link Source="@217" Target="@47" Category="PoundInclude" />
+    <Link Source="@219" Target="@13" Category="PoundInclude" />
+    <Link Source="@219" Target="@275" Category="PoundInclude" />
+    <Link Source="@219" Target="@311" Category="PoundInclude" />
+    <Link Source="@219" Target="@373" Category="PoundInclude" />
+    <Link Source="@219" Target="@375" Category="PoundInclude" />
+    <Link Source="@219" Target="@440" Category="PoundInclude" />
+    <Link Source="@219" Target="@47" Category="PoundInclude" />
+    <Link Source="@221" Target="@13" Category="PoundInclude" />
+    <Link Source="@221" Target="@131" Category="PoundInclude" />
+    <Link Source="@221" Target="@215" Category="PoundInclude" />
+    <Link Source="@221" Target="@219" Category="PoundInclude" />
+    <Link Source="@221" Target="@311" Category="PoundInclude" />
+    <Link Source="@221" Target="@375" Category="PoundInclude" />
+    <Link Source="@221" Target="@440" Category="PoundInclude" />
+    <Link Source="@221" Target="@47" Category="PoundInclude" />
+    <Link Source="@223" Target="@440" Category="PoundInclude" />
+    <Link Source="@225" Target="@215" Category="PoundInclude" />
+    <Link Source="@225" Target="@219" Category="PoundInclude" />
+    <Link Source="@225" Target="@275" Category="PoundInclude" />
+    <Link Source="@225" Target="@311" Category="PoundInclude" />
+    <Link Source="@225" Target="@440" Category="PoundInclude" />
+    <Link Source="@225" Target="@47" Category="PoundInclude" />
+    <Link Source="@227" Target="@401" Category="PoundInclude" />
+    <Link Source="@227" Target="@440" Category="PoundInclude" />
+    <Link Source="@229" Target="@11" Category="PoundInclude" />
+    <Link Source="@229" Target="@201" Category="PoundInclude" />
+    <Link Source="@229" Target="@440" Category="PoundInclude" />
+    <Link Source="@23" Target="@201" Category="PoundInclude" />
+    <Link Source="@23" Target="@205" Category="PoundInclude" />
+    <Link Source="@23" Target="@31" Category="PoundInclude" />
+    <Link Source="@23" Target="@369" Category="PoundInclude" />
+    <Link Source="@23" Target="@375" Category="PoundInclude" />
+    <Link Source="@23" Target="@440" Category="PoundInclude" />
+    <Link Source="@23" Target="@95" Category="PoundInclude" />
+    <Link Source="@23" Target="@97" Category="PoundInclude" />
+    <Link Source="@233" Target="@11" Category="PoundInclude" />
+    <Link Source="@233" Target="@135" Category="PoundInclude" />
+    <Link Source="@233" Target="@139" Category="PoundInclude" />
+    <Link Source="@233" Target="@153" Category="PoundInclude" />
+    <Link Source="@233" Target="@155" Category="PoundInclude" />
+    <Link Source="@233" Target="@17" Category="PoundInclude" />
+    <Link Source="@233" Target="@173" Category="PoundInclude" />
+    <Link Source="@233" Target="@177" Category="PoundInclude" />
+    <Link Source="@233" Target="@201" Category="PoundInclude" />
+    <Link Source="@233" Target="@237" Category="PoundInclude" />
+    <Link Source="@233" Target="@440" Category="PoundInclude" />
+    <Link Source="@235" Target="@347" Category="PoundInclude" />
+    <Link Source="@235" Target="@440" Category="PoundInclude" />
+    <Link Source="@237" Target="@11" Category="PoundInclude" />
+    <Link Source="@237" Target="@201" Category="PoundInclude" />
+    <Link Source="@237" Target="@440" Category="PoundInclude" />
+    <Link Source="@239" Target="@440" Category="PoundInclude" />
+    <Link Source="@243" Target="@257" Category="PoundInclude" />
+    <Link Source="@245" Target="@255" Category="PoundInclude" />
+    <Link Source="@245" Target="@259" Category="PoundInclude" />
+    <Link Source="@247" Target="@251" Category="PoundInclude" />
+    <Link Source="@249" Target="@243" Category="PoundInclude" />
+    <Link Source="@251" Target="@253" Category="PoundInclude" />
+    <Link Source="@253" Target="@249" Category="PoundInclude" />
+    <Link Source="@255" Target="@247" Category="PoundInclude" />
+    <Link Source="@257" Target="@261" Category="PoundInclude" />
+    <Link Source="@257" Target="@43" Category="PoundInclude" />
+    <Link Source="@263" Target="@241" Category="PoundInclude" />
+    <Link Source="@263" Target="@245" Category="PoundInclude" />
+    <Link Source="@263" Target="@267" Category="PoundInclude" />
+    <Link Source="@263" Target="@269" Category="PoundInclude" />
+    <Link Source="@263" Target="@301" Category="PoundInclude" />
+    <Link Source="@263" Target="@337" Category="PoundInclude" />
+    <Link Source="@263" Target="@339" Category="PoundInclude" />
+    <Link Source="@263" Target="@403" Category="PoundInclude" />
+    <Link Source="@263" Target="@429" Category="PoundInclude" />
+    <Link Source="@263" Target="@71" Category="PoundInclude" />
+    <Link Source="@263" Target="@9" Category="PoundInclude" />
+    <Link Source="@265" Target="@129" Category="PoundInclude" />
+    <Link Source="@265" Target="@149" Category="PoundInclude" />
+    <Link Source="@265" Target="@19" Category="PoundInclude" />
+    <Link Source="@265" Target="@29" Category="PoundInclude" />
+    <Link Source="@265" Target="@351" Category="PoundInclude" />
+    <Link Source="@265" Target="@440" Category="PoundInclude" />
+    <Link Source="@267" Target="@213" Category="PoundInclude" />
+    <Link Source="@267" Target="@403" Category="PoundInclude" />
+    <Link Source="@269" Target="@213" Category="PoundInclude" />
+    <Link Source="@269" Target="@403" Category="PoundInclude" />
+    <Link Source="@27" Target="@101" Category="PoundInclude" />
+    <Link Source="@27" Target="@399" Category="PoundInclude" />
+    <Link Source="@27" Target="@425" Category="PoundInclude" />
+    <Link Source="@271" Target="@13" Category="PoundInclude" />
+    <Link Source="@271" Target="@217" Category="PoundInclude" />
+    <Link Source="@271" Target="@219" Category="PoundInclude" />
+    <Link Source="@271" Target="@225" Category="PoundInclude" />
+    <Link Source="@271" Target="@311" Category="PoundInclude" />
+    <Link Source="@271" Target="@375" Category="PoundInclude" />
+    <Link Source="@271" Target="@427" Category="PoundInclude" />
+    <Link Source="@271" Target="@440" Category="PoundInclude" />
+    <Link Source="@271" Target="@47" Category="PoundInclude" />
+    <Link Source="@273" Target="@440" Category="PoundInclude" />
+    <Link Source="@275" Target="@13" Category="PoundInclude" />
+    <Link Source="@275" Target="@311" Category="PoundInclude" />
+    <Link Source="@275" Target="@353" Category="PoundInclude" />
+    <Link Source="@275" Target="@375" Category="PoundInclude" />
+    <Link Source="@275" Target="@440" Category="PoundInclude" />
+    <Link Source="@275" Target="@47" Category="PoundInclude" />
+    <Link Source="@277" Target="@113" Category="PoundInclude" />
+    <Link Source="@277" Target="@415" Category="PoundInclude" />
+    <Link Source="@279" Target="@277" Category="PoundInclude" />
+    <Link Source="@279" Target="@415" Category="PoundInclude" />
+    <Link Source="@281" Target="@113" Category="PoundInclude" />
+    <Link Source="@281" Target="@415" Category="PoundInclude" />
+    <Link Source="@283" Target="@415" Category="PoundInclude" />
+    <Link Source="@283" Target="@79" Category="PoundInclude" />
+    <Link Source="@285" Target="@287" Category="PoundInclude" />
+    <Link Source="@287" Target="@283" Category="PoundInclude" />
+    <Link Source="@287" Target="@79" Category="PoundInclude" />
+    <Link Source="@289" Target="@415" Category="PoundInclude" />
+    <Link Source="@29" Target="@101" Category="PoundInclude" />
+    <Link Source="@29" Target="@103" Category="PoundInclude" />
+    <Link Source="@29" Target="@129" Category="PoundInclude" />
+    <Link Source="@29" Target="@351" Category="PoundInclude" />
+    <Link Source="@29" Target="@399" Category="PoundInclude" />
+    <Link Source="@29" Target="@425" Category="PoundInclude" />
+    <Link Source="@29" Target="@87" Category="PoundInclude" />
+    <Link Source="@293" Target="@201" Category="PoundInclude" />
+    <Link Source="@293" Target="@215" Category="PoundInclude" />
+    <Link Source="@293" Target="@33" Category="PoundInclude" />
+    <Link Source="@293" Target="@440" Category="PoundInclude" />
+    <Link Source="@295" Target="@440" Category="PoundInclude" />
+    <Link Source="@297" Target="@107" Category="PoundInclude" />
+    <Link Source="@297" Target="@175" Category="PoundInclude" />
+    <Link Source="@297" Target="@23" Category="PoundInclude" />
+    <Link Source="@297" Target="@373" Category="PoundInclude" />
+    <Link Source="@297" Target="@440" Category="PoundInclude" />
+    <Link Source="@299" Target="@440" Category="PoundInclude" />
+    <Link Source="@301" Target="@433" Category="PoundInclude" />
+    <Link Source="@301" Target="@71" Category="PoundInclude" />
+    <Link Source="@303" Target="@117" Category="PoundInclude" />
+    <Link Source="@303" Target="@121" Category="PoundInclude" />
+    <Link Source="@303" Target="@305" Category="PoundInclude" />
+    <Link Source="@303" Target="@415" Category="PoundInclude" />
+    <Link Source="@305" Target="@119" Category="PoundInclude" />
+    <Link Source="@305" Target="@123" Category="PoundInclude" />
+    <Link Source="@305" Target="@277" Category="PoundInclude" />
+    <Link Source="@305" Target="@281" Category="PoundInclude" />
+    <Link Source="@305" Target="@283" Category="PoundInclude" />
+    <Link Source="@305" Target="@35" Category="PoundInclude" />
+    <Link Source="@305" Target="@355" Category="PoundInclude" />
+    <Link Source="@305" Target="@371" Category="PoundInclude" />
+    <Link Source="@305" Target="@377" Category="PoundInclude" />
+    <Link Source="@305" Target="@379" Category="PoundInclude" />
+    <Link Source="@305" Target="@381" Category="PoundInclude" />
+    <Link Source="@305" Target="@415" Category="PoundInclude" />
+    <Link Source="@305" Target="@73" Category="PoundInclude" />
+    <Link Source="@305" Target="@75" Category="PoundInclude" />
+    <Link Source="@311" Target="@201" Category="PoundInclude" />
+    <Link Source="@311" Target="@209" Category="PoundInclude" />
+    <Link Source="@311" Target="@299" Category="PoundInclude" />
+    <Link Source="@311" Target="@33" Category="PoundInclude" />
+    <Link Source="@311" Target="@440" Category="PoundInclude" />
+    <Link Source="@311" Target="@63" Category="PoundInclude" />
+    <Link Source="@313" Target="@101" Category="PoundInclude" />
+    <Link Source="@313" Target="@399" Category="PoundInclude" />
+    <Link Source="@313" Target="@425" Category="PoundInclude" />
+    <Link Source="@313" Target="@87" Category="PoundInclude" />
+    <Link Source="@315" Target="@125" Category="PoundInclude" />
+    <Link Source="@315" Target="@187" Category="PoundInclude" />
+    <Link Source="@315" Target="@201" Category="PoundInclude" />
+    <Link Source="@315" Target="@21" Category="PoundInclude" />
+    <Link Source="@315" Target="@421" Category="PoundInclude" />
+    <Link Source="@315" Target="@440" Category="PoundInclude" />
+    <Link Source="@315" Target="@456" Category="PoundInclude" />
+    <Link Source="@319" Target="@363" Category="PoundInclude" />
+    <Link Source="@319" Target="@440" Category="PoundInclude" />
+    <Link Source="@319" Target="@51" Category="PoundInclude" />
+    <Link Source="@326" Target="@317" Category="PoundInclude" />
+    <Link Source="@329" Target="@363" Category="PoundInclude" />
+    <Link Source="@335" Target="@440" Category="PoundInclude" />
+    <Link Source="@341" Target="@343" Category="PoundInclude" />
+    <Link Source="@343" Target="@211" Category="PoundInclude" />
+    <Link Source="@343" Target="@345" Category="PoundInclude" />
+    <Link Source="@343" Target="@363" Category="PoundInclude" />
+    <Link Source="@35" Target="@415" Category="PoundInclude" />
+    <Link Source="@351" Target="@101" Category="PoundInclude" />
+    <Link Source="@353" Target="@311" Category="PoundInclude" />
+    <Link Source="@353" Target="@47" Category="PoundInclude" />
+    <Link Source="@353" Target="@93" Category="PoundInclude" />
+    <Link Source="@359" Target="@440" Category="PoundInclude" />
+    <Link Source="@361" Target="@440" Category="PoundInclude" />
+    <Link Source="@363" Target="@213" Category="PoundInclude" />
+    <Link Source="@363" Target="@25" Category="PoundInclude" />
+    <Link Source="@363" Target="@343" Category="PoundInclude" />
+    <Link Source="@363" Target="@383" Category="PoundInclude" />
+    <Link Source="@365" Target="@151" Category="PoundInclude" />
+    <Link Source="@365" Target="@187" Category="PoundInclude" />
+    <Link Source="@365" Target="@389" Category="PoundInclude" />
+    <Link Source="@365" Target="@440" Category="PoundInclude" />
+    <Link Source="@369" Target="@440" Category="PoundInclude" />
+    <Link Source="@37" Target="@127" Category="PoundInclude" />
+    <Link Source="@37" Target="@35" Category="PoundInclude" />
+    <Link Source="@37" Target="@373" Category="PoundInclude" />
+    <Link Source="@37" Target="@415" Category="PoundInclude" />
+    <Link Source="@37" Target="@45" Category="PoundInclude" />
+    <Link Source="@371" Target="@415" Category="PoundInclude" />
+    <Link Source="@373" Target="@71" Category="PoundInclude" />
+    <Link Source="@375" Target="@103" Category="PoundInclude" />
+    <Link Source="@375" Target="@109" Category="PoundInclude" />
+    <Link Source="@375" Target="@111" Category="PoundInclude" />
+    <Link Source="@375" Target="@115" Category="PoundInclude" />
+    <Link Source="@375" Target="@125" Category="PoundInclude" />
+    <Link Source="@375" Target="@129" Category="PoundInclude" />
+    <Link Source="@375" Target="@13" Category="PoundInclude" />
+    <Link Source="@375" Target="@179" Category="PoundInclude" />
+    <Link Source="@375" Target="@203" Category="PoundInclude" />
+    <Link Source="@375" Target="@207" Category="PoundInclude" />
+    <Link Source="@375" Target="@223" Category="PoundInclude" />
+    <Link Source="@375" Target="@227" Category="PoundInclude" />
+    <Link Source="@375" Target="@233" Category="PoundInclude" />
+    <Link Source="@375" Target="@235" Category="PoundInclude" />
+    <Link Source="@375" Target="@239" Category="PoundInclude" />
+    <Link Source="@375" Target="@265" Category="PoundInclude" />
+    <Link Source="@375" Target="@315" Category="PoundInclude" />
+    <Link Source="@375" Target="@317" Category="PoundInclude" />
+    <Link Source="@375" Target="@319" Category="PoundInclude" />
+    <Link Source="@375" Target="@331" Category="PoundInclude" />
+    <Link Source="@375" Target="@359" Category="PoundInclude" />
+    <Link Source="@375" Target="@361" Category="PoundInclude" />
+    <Link Source="@375" Target="@365" Category="PoundInclude" />
+    <Link Source="@375" Target="@407" Category="PoundInclude" />
+    <Link Source="@375" Target="@411" Category="PoundInclude" />
+    <Link Source="@375" Target="@431" Category="PoundInclude" />
+    <Link Source="@375" Target="@440" Category="PoundInclude" />
+    <Link Source="@375" Target="@47" Category="PoundInclude" />
+    <Link Source="@375" Target="@49" Category="PoundInclude" />
+    <Link Source="@375" Target="@53" Category="PoundInclude" />
+    <Link Source="@375" Target="@57" Category="PoundInclude" />
+    <Link Source="@375" Target="@59" Category="PoundInclude" />
+    <Link Source="@375" Target="@67" Category="PoundInclude" />
+    <Link Source="@375" Target="@69" Category="PoundInclude" />
+    <Link Source="@375" Target="@7" Category="PoundInclude" />
+    <Link Source="@375" Target="@89" Category="PoundInclude" />
+    <Link Source="@377" Target="@123" Category="PoundInclude" />
+    <Link Source="@377" Target="@289" Category="PoundInclude" />
+    <Link Source="@377" Target="@415" Category="PoundInclude" />
+    <Link Source="@379" Target="@355" Category="PoundInclude" />
+    <Link Source="@379" Target="@415" Category="PoundInclude" />
+    <Link Source="@381" Target="@415" Category="PoundInclude" />
+    <Link Source="@383" Target="@105" Category="PoundInclude" />
+    <Link Source="@385" Target="@101" Category="PoundInclude" />
+    <Link Source="@385" Target="@399" Category="PoundInclude" />
+    <Link Source="@385" Target="@425" Category="PoundInclude" />
+    <Link Source="@385" Target="@87" Category="PoundInclude" />
+    <Link Source="@387" Target="@101" Category="PoundInclude" />
+    <Link Source="@387" Target="@399" Category="PoundInclude" />
+    <Link Source="@387" Target="@425" Category="PoundInclude" />
+    <Link Source="@389" Target="@101" Category="PoundInclude" />
+    <Link Source="@389" Target="@365" Category="PoundInclude" />
+    <Link Source="@389" Target="@399" Category="PoundInclude" />
+    <Link Source="@389" Target="@425" Category="PoundInclude" />
+    <Link Source="@39" Target="@440" Category="PoundInclude" />
+    <Link Source="@391" Target="@101" Category="PoundInclude" />
+    <Link Source="@391" Target="@399" Category="PoundInclude" />
+    <Link Source="@391" Target="@425" Category="PoundInclude" />
+    <Link Source="@393" Target="@101" Category="PoundInclude" />
+    <Link Source="@393" Target="@399" Category="PoundInclude" />
+    <Link Source="@393" Target="@425" Category="PoundInclude" />
+    <Link Source="@393" Target="@87" Category="PoundInclude" />
+    <Link Source="@395" Target="@101" Category="PoundInclude" />
+    <Link Source="@395" Target="@399" Category="PoundInclude" />
+    <Link Source="@395" Target="@425" Category="PoundInclude" />
+    <Link Source="@395" Target="@87" Category="PoundInclude" />
+    <Link Source="@397" Target="@101" Category="PoundInclude" />
+    <Link Source="@397" Target="@399" Category="PoundInclude" />
+    <Link Source="@397" Target="@425" Category="PoundInclude" />
+    <Link Source="@397" Target="@87" Category="PoundInclude" />
+    <Link Source="@4" Target="(@3 @327)" Category="Contains" />
+    <Link Source="@4" Target="(@3 @436)" Category="Contains" />
+    <Link Source="@4" Target="(@3 @463)" Category="Contains" />
+    <Link Source="@4" Target="(@3 @464)" Category="Contains" />
+    <Link Source="@4" Target="(@3 @466)" Category="Contains" />
+    <Link Source="@401" Target="@201" Category="PoundInclude" />
+    <Link Source="@401" Target="@31" Category="PoundInclude" />
+    <Link Source="@401" Target="@33" Category="PoundInclude" />
+    <Link Source="@401" Target="@440" Category="PoundInclude" />
+    <Link Source="@401" Target="@458" Category="PoundInclude" />
+    <Link Source="@403" Target="@71" Category="PoundInclude" />
+    <Link Source="@405" Target="@11" Category="PoundInclude" />
+    <Link Source="@405" Target="@121" Category="PoundInclude" />
+    <Link Source="@405" Target="@201" Category="PoundInclude" />
+    <Link Source="@405" Target="@21" Category="PoundInclude" />
+    <Link Source="@405" Target="@263" Category="PoundInclude" />
+    <Link Source="@405" Target="@31" Category="PoundInclude" />
+    <Link Source="@405" Target="@317" Category="PoundInclude" />
+    <Link Source="@405" Target="@33" Category="PoundInclude" />
+    <Link Source="@405" Target="@341" Category="PoundInclude" />
+    <Link Source="@405" Target="@349" Category="PoundInclude" />
+    <Link Source="@405" Target="@363" Category="PoundInclude" />
+    <Link Source="@405" Target="@399" Category="PoundInclude" />
+    <Link Source="@405" Target="@407" Category="PoundInclude" />
+    <Link Source="@405" Target="@440" Category="PoundInclude" />
+    <Link Source="@405" Target="@63" Category="PoundInclude" />
+    <Link Source="@405" Target="@77" Category="PoundInclude" />
+    <Link Source="@405" Target="@97" Category="PoundInclude" />
+    <Link Source="@407" Target="@71" Category="PoundInclude" />
+    <Link Source="@409" Target="@440" Category="PoundInclude" />
+    <Link Source="@41" Target="@103" Category="PoundInclude" />
+    <Link Source="@41" Target="@201" Category="PoundInclude" />
+    <Link Source="@41" Target="@33" Category="PoundInclude" />
+    <Link Source="@41" Target="@440" Category="PoundInclude" />
+    <Link Source="@411" Target="@185" Category="PoundInclude" />
+    <Link Source="@411" Target="@363" Category="PoundInclude" />
+    <Link Source="@411" Target="@409" Category="PoundInclude" />
+    <Link Source="@411" Target="@413" Category="PoundInclude" />
+    <Link Source="@411" Target="@440" Category="PoundInclude" />
+    <Link Source="@413" Target="@409" Category="PoundInclude" />
+    <Link Source="@413" Target="@440" Category="PoundInclude" />
+    <Link Source="@415" Target="@440" Category="PoundInclude" />
+    <Link Source="@415" Target="@71" Category="PoundInclude" />
+    <Link Source="@421" Target="@440" Category="PoundInclude" />
+    <Link Source="@421" Target="@97" Category="PoundInclude" />
+    <Link Source="@423" Target="@101" Category="PoundInclude" />
+    <Link Source="@423" Target="@399" Category="PoundInclude" />
+    <Link Source="@423" Target="@425" Category="PoundInclude" />
+    <Link Source="@427" Target="@13" Category="PoundInclude" />
+    <Link Source="@427" Target="@219" Category="PoundInclude" />
+    <Link Source="@427" Target="@311" Category="PoundInclude" />
+    <Link Source="@427" Target="@375" Category="PoundInclude" />
+    <Link Source="@427" Target="@440" Category="PoundInclude" />
+    <Link Source="@427" Target="@47" Category="PoundInclude" />
+    <Link Source="@429" Target="@257" Category="PoundInclude" />
+    <Link Source="@429" Target="@261" Category="PoundInclude" />
+    <Link Source="@429" Target="@71" Category="PoundInclude" />
+    <Link Source="@43" Target="@415" Category="PoundInclude" />
+    <Link Source="@43" Target="@45" Category="PoundInclude" />
+    <Link Source="@433" Target="@301" Category="PoundInclude" />
+    <Link Source="@435" Target="@121" Category="PoundInclude" />
+    <Link Source="@435" Target="@23" Category="PoundInclude" />
+    <Link Source="@435" Target="@231" Category="PoundInclude" />
+    <Link Source="@435" Target="@279" Category="PoundInclude" />
+    <Link Source="@435" Target="@285" Category="PoundInclude" />
+    <Link Source="@435" Target="@291" Category="PoundInclude" Bounds="349.964935302734,121.996002197266,72.9863586425781,26.8887481689453" />
+    <Link Source="@435" Target="@297" Category="PoundInclude" />
+    <Link Source="@435" Target="@303" Category="PoundInclude" />
+    <Link Source="@435" Target="@321" Category="PoundInclude" Bounds="355.673004150391,116.623207092285,184.644805908203,34.3512954711914" />
+    <Link Source="@435" Target="@324" Category="PoundInclude" Bounds="314.6806640625,121.996002197266,0,21" />
+    <Link Source="@435" Target="@326" Category="PoundInclude" Bounds="207.932266235352,121.996002197266,71.9284210205078,26.8523101806641" />
+    <Link Source="@435" Target="@355" Category="PoundInclude" />
+    <Link Source="@435" Target="@37" Category="PoundInclude" />
+    <Link Source="@435" Target="@419" Category="PoundInclude" Bounds="94.1349868774414,117.487953186035,179.553337097168,37.826545715332" />
+    <Link Source="@440" Target="@438" Category="PoundInclude" />
+    <Link Source="@442" Target="@123" Category="PoundInclude" />
+    <Link Source="@442" Target="@377" Category="PoundInclude" />
+    <Link Source="@442" Target="@415" Category="PoundInclude" />
+    <Link Source="@45" Target="@415" Category="PoundInclude" />
+    <Link Source="@462" Target="@435" Category="PoundInclude" Bounds="314.6806640625,65.9980010986328,0,21" />
+    <Link Source="@47" Target="@199" Category="PoundInclude" />
+    <Link Source="@47" Target="@201" Category="PoundInclude" />
+    <Link Source="@47" Target="@21" Category="PoundInclude" />
+    <Link Source="@47" Target="@301" Category="PoundInclude" />
+    <Link Source="@47" Target="@329" Category="PoundInclude" />
+    <Link Source="@47" Target="@33" Category="PoundInclude" />
+    <Link Source="@47" Target="@335" Category="PoundInclude" />
+    <Link Source="@47" Target="@375" Category="PoundInclude" />
+    <Link Source="@47" Target="@407" Category="PoundInclude" />
+    <Link Source="@47" Target="@41" Category="PoundInclude" />
+    <Link Source="@47" Target="@63" Category="PoundInclude" />
+    <Link Source="@47" Target="@65" Category="PoundInclude" />
+    <Link Source="@49" Target="@319" Category="PoundInclude" />
+    <Link Source="@49" Target="@361" Category="PoundInclude" />
+    <Link Source="@49" Target="@444" Category="PoundInclude" />
+    <Link Source="@49" Target="@446" Category="PoundInclude" />
+    <Link Source="@49" Target="@448" Category="PoundInclude" />
+    <Link Source="@49" Target="@450" Category="PoundInclude" />
+    <Link Source="@51" Target="@440" Category="PoundInclude" />
+    <Link Source="@53" Target="@440" Category="PoundInclude" />
+    <Link Source="@55" Target="@440" Category="PoundInclude" />
+    <Link Source="@57" Target="@440" Category="PoundInclude" />
+    <Link Source="@59" Target="@229" Category="PoundInclude" />
+    <Link Source="@59" Target="@333" Category="PoundInclude" />
+    <Link Source="@59" Target="@353" Category="PoundInclude" />
+    <Link Source="@59" Target="@440" Category="PoundInclude" />
+    <Link Source="@59" Target="@61" Category="PoundInclude" />
+    <Link Source="@65" Target="@295" Category="PoundInclude" />
+    <Link Source="@65" Target="@363" Category="PoundInclude" />
+    <Link Source="@65" Target="@440" Category="PoundInclude" />
+    <Link Source="@65" Target="@97" Category="PoundInclude" />
+    <Link Source="@67" Target="@103" Category="PoundInclude" />
+    <Link Source="@67" Target="@440" Category="PoundInclude" />
+    <Link Source="@69" Target="@11" Category="PoundInclude" />
+    <Link Source="@69" Target="@201" Category="PoundInclude" />
+    <Link Source="@69" Target="@440" Category="PoundInclude" />
+    <Link Source="@7" Target="@440" Category="PoundInclude" />
+    <Link Source="@71" Target="@213" Category="PoundInclude" />
+    <Link Source="@71" Target="@357" Category="PoundInclude" />
+    <Link Source="@73" Target="@415" Category="PoundInclude" />
+    <Link Source="@75" Target="@415" Category="PoundInclude" />
+    <Link Source="@77" Target="@415" Category="PoundInclude" />
+    <Link Source="@77" Target="@75" Category="PoundInclude" />
+    <Link Source="@81" Target="@131" Category="PoundInclude" />
+    <Link Source="@81" Target="@161" Category="PoundInclude" />
+    <Link Source="@81" Target="@201" Category="PoundInclude" />
+    <Link Source="@81" Target="@219" Category="PoundInclude" />
+    <Link Source="@81" Target="@221" Category="PoundInclude" />
+    <Link Source="@81" Target="@271" Category="PoundInclude" />
+    <Link Source="@81" Target="@311" Category="PoundInclude" />
+    <Link Source="@81" Target="@33" Category="PoundInclude" />
+    <Link Source="@81" Target="@440" Category="PoundInclude" />
+    <Link Source="@81" Target="@47" Category="PoundInclude" />
+    <Link Source="@83" Target="@13" Category="PoundInclude" />
+    <Link Source="@83" Target="@311" Category="PoundInclude" />
+    <Link Source="@83" Target="@373" Category="PoundInclude" />
+    <Link Source="@83" Target="@375" Category="PoundInclude" />
+    <Link Source="@83" Target="@440" Category="PoundInclude" />
+    <Link Source="@83" Target="@47" Category="PoundInclude" />
+    <Link Source="@83" Target="@91" Category="PoundInclude" />
+    <Link Source="@85" Target="@13" Category="PoundInclude" />
+    <Link Source="@85" Target="@215" Category="PoundInclude" />
+    <Link Source="@85" Target="@219" Category="PoundInclude" />
+    <Link Source="@85" Target="@311" Category="PoundInclude" />
+    <Link Source="@85" Target="@375" Category="PoundInclude" />
+    <Link Source="@85" Target="@440" Category="PoundInclude" />
+    <Link Source="@85" Target="@47" Category="PoundInclude" />
+    <Link Source="@89" Target="@133" Category="PoundInclude" />
+    <Link Source="@89" Target="@137" Category="PoundInclude" />
+    <Link Source="@89" Target="@141" Category="PoundInclude" />
+    <Link Source="@89" Target="@143" Category="PoundInclude" />
+    <Link Source="@89" Target="@145" Category="PoundInclude" />
+    <Link Source="@89" Target="@147" Category="PoundInclude" />
+    <Link Source="@89" Target="@15" Category="PoundInclude" />
+    <Link Source="@89" Target="@157" Category="PoundInclude" />
+    <Link Source="@89" Target="@159" Category="PoundInclude" />
+    <Link Source="@89" Target="@163" Category="PoundInclude" />
+    <Link Source="@89" Target="@165" Category="PoundInclude" />
+    <Link Source="@89" Target="@167" Category="PoundInclude" />
+    <Link Source="@89" Target="@169" Category="PoundInclude" />
+    <Link Source="@89" Target="@171" Category="PoundInclude" />
+    <Link Source="@89" Target="@181" Category="PoundInclude" />
+    <Link Source="@89" Target="@183" Category="PoundInclude" />
+    <Link Source="@89" Target="@187" Category="PoundInclude" />
+    <Link Source="@89" Target="@189" Category="PoundInclude" />
+    <Link Source="@89" Target="@191" Category="PoundInclude" />
+    <Link Source="@89" Target="@193" Category="PoundInclude" />
+    <Link Source="@89" Target="@195" Category="PoundInclude" />
+    <Link Source="@89" Target="@197" Category="PoundInclude" />
+    <Link Source="@89" Target="@27" Category="PoundInclude" />
+    <Link Source="@89" Target="@313" Category="PoundInclude" />
+    <Link Source="@89" Target="@329" Category="PoundInclude" />
+    <Link Source="@89" Target="@385" Category="PoundInclude" />
+    <Link Source="@89" Target="@387" Category="PoundInclude" />
+    <Link Source="@89" Target="@391" Category="PoundInclude" />
+    <Link Source="@89" Target="@393" Category="PoundInclude" />
+    <Link Source="@89" Target="@395" Category="PoundInclude" />
+    <Link Source="@89" Target="@397" Category="PoundInclude" />
+    <Link Source="@89" Target="@423" Category="PoundInclude" />
+    <Link Source="@89" Target="@425" Category="PoundInclude" />
+    <Link Source="@89" Target="@440" Category="PoundInclude" />
+    <Link Source="@89" Target="@452" Category="PoundInclude" />
+    <Link Source="@89" Target="@87" Category="PoundInclude" />
+    <Link Source="@91" Target="@13" Category="PoundInclude" />
+    <Link Source="@91" Target="@311" Category="PoundInclude" />
+    <Link Source="@91" Target="@375" Category="PoundInclude" />
+    <Link Source="@91" Target="@440" Category="PoundInclude" />
+    <Link Source="@91" Target="@47" Category="PoundInclude" />
+    <Link Source="@91" Target="@93" Category="PoundInclude" />
+    <Link Source="@93" Target="@311" Category="PoundInclude" />
+    <Link Source="@93" Target="@47" Category="PoundInclude" />
+    <Link Source="@93" Target="@63" Category="PoundInclude" />
+    <Link Source="@93" Target="@97" Category="PoundInclude" />
+    <Link Source="@95" Target="@309" Category="PoundInclude" />
+    <Link Source="@95" Target="@417" Category="PoundInclude" />
+    <Link Source="@95" Target="@440" Category="PoundInclude" />
+    <Link Source="@97" Target="@121" Category="PoundInclude" />
+    <Link Source="@99" Target="@415" Category="PoundInclude" />
+    <Link Source="G4" Target="@121" Category="Contains" />
+    <Link Source="G4" Target="@23" Category="Contains" />
+    <Link Source="G4" Target="@231" Category="Contains" />
+    <Link Source="G4" Target="@279" Category="Contains" />
+    <Link Source="G4" Target="@285" Category="Contains" />
+    <Link Source="G4" Target="@297" Category="Contains" />
+    <Link Source="G4" Target="@303" Category="Contains" />
+    <Link Source="G4" Target="@317" Category="Contains" />
+    <Link Source="G4" Target="@355" Category="Contains" />
+    <Link Source="G4" Target="@37" Category="Contains" />
+    <Link Source="G4" Target="@43" Category="Contains" />
+    <Link Source="G4" Target="Windows SDK Indirectly Included" Category="Contains" />
+    <Link Source="OthersGroup" Target="@123" Category="Contains" />
+    <Link Source="OthersGroup" Target="@125" Category="Contains" />
+    <Link Source="OthersGroup" Target="@211" Category="Contains" />
+    <Link Source="OthersGroup" Target="@213" Category="Contains" />
+    <Link Source="OthersGroup" Target="@241" Category="Contains" />
+    <Link Source="OthersGroup" Target="@243" Category="Contains" />
+    <Link Source="OthersGroup" Target="@245" Category="Contains" />
+    <Link Source="OthersGroup" Target="@247" Category="Contains" />
+    <Link Source="OthersGroup" Target="@249" Category="Contains" />
+    <Link Source="OthersGroup" Target="@251" Category="Contains" />
+    <Link Source="OthersGroup" Target="@253" Category="Contains" />
+    <Link Source="OthersGroup" Target="@255" Category="Contains" />
+    <Link Source="OthersGroup" Target="@257" Category="Contains" />
+    <Link Source="OthersGroup" Target="@259" Category="Contains" />
+    <Link Source="OthersGroup" Target="@261" Category="Contains" />
+    <Link Source="OthersGroup" Target="@263" Category="Contains" />
+    <Link Source="OthersGroup" Target="@267" Category="Contains" />
+    <Link Source="OthersGroup" Target="@269" Category="Contains" />
+    <Link Source="OthersGroup" Target="@301" Category="Contains" />
+    <Link Source="OthersGroup" Target="@337" Category="Contains" />
+    <Link Source="OthersGroup" Target="@339" Category="Contains" />
+    <Link Source="OthersGroup" Target="@357" Category="Contains" />
+    <Link Source="OthersGroup" Target="@367" Category="Contains" />
+    <Link Source="OthersGroup" Target="@373" Category="Contains" />
+    <Link Source="OthersGroup" Target="@403" Category="Contains" />
+    <Link Source="OthersGroup" Target="@407" Category="Contains" />
+    <Link Source="OthersGroup" Target="@429" Category="Contains" />
+    <Link Source="OthersGroup" Target="@433" Category="Contains" />
+    <Link Source="OthersGroup" Target="@71" Category="Contains" />
+    <Link Source="OthersGroup" Target="@9" Category="Contains" />
+    <Link Source="PoundIncludeGraphExternalsGroup" Target="G4" Category="Contains" />
+    <Link Source="PoundIncludeGraphExternalsGroup" Target="OthersGroup" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@101" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@103" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@105" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@107" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@109" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@11" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@111" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@113" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@115" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@117" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@119" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@127" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@129" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@13" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@131" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@133" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@135" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@137" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@139" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@141" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@143" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@145" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@147" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@149" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@15" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@151" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@153" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@155" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@157" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@159" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@161" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@163" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@165" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@167" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@169" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@17" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@171" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@173" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@175" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@177" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@179" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@181" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@183" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@185" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@187" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@189" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@19" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@191" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@193" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@195" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@197" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@199" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@201" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@203" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@205" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@207" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@209" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@21" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@215" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@217" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@219" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@221" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@223" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@225" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@227" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@229" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@233" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@235" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@237" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@239" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@25" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@265" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@27" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@271" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@273" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@275" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@277" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@281" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@283" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@287" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@289" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@29" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@293" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@295" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@299" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@305" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@307" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@309" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@31" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@311" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@313" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@315" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@319" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@329" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@33" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@331" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@333" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@335" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@341" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@343" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@345" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@347" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@349" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@35" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@351" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@353" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@359" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@361" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@363" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@365" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@369" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@371" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@375" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@377" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@379" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@381" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@383" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@385" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@387" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@389" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@39" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@391" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@393" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@395" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@397" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@399" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@401" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@405" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@409" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@41" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@411" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@413" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@415" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@417" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@421" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@423" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@425" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@427" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@431" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@438" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@440" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@442" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@444" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@446" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@448" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@45" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@450" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@452" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@454" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@456" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@458" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@47" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@49" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@51" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@53" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@55" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@57" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@59" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@61" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@63" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@65" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@67" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@69" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@7" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@73" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@75" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@77" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@79" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@81" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@83" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@85" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@87" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@89" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@91" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@93" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@95" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@97" Category="Contains" />
+    <Link Source="Windows SDK Indirectly Included" Target="@99" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_PoundIncludeFile" Label="C++ Project File" BasedOn="File" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="C++ Project File" />
+    <Category Id="CodeSchema_PoundIncludeGroup" Label="#include Group" BasedOn="Group" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="#include Group" />
+    <Category Id="CodeSchema_ProjectItem" Label="Project Item" BasedOn="File" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="File" NavigationActionLabel="Project Items" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="Externals" Label="Externals" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Externals" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="Group" Label="Group" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Groups" />
+    <Category Id="PoundInclude" Label="#include" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="#include By" OutgoingActionLabel="#include" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="File" Label="File" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(VsSolutionUri)/MessangerServer/MessengerServer.vcxproj" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(VsSolutionUri)/MessangerClient/MessengerClient.vcxproj" />
+    <Alias n="4" Id="(@3)" />
+    <Alias n="5" Uri="Assembly=" />
+    <Alias n="6" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/nb30.h" />
+    <Alias n="7" Id="(@5 @6)" />
+    <Alias n="8" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/intrin0.h" />
+    <Alias n="9" Id="(@5 @8)" />
+    <Alias n="10" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/pshpack1.h" />
+    <Alias n="11" Id="(@5 @10)" />
+    <Alias n="12" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/Ole2.h" />
+    <Alias n="13" Id="(@5 @12)" />
+    <Alias n="14" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/jobapi2.h" />
+    <Alias n="15" Id="(@5 @14)" />
+    <Alias n="16" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mmiscapi2.h" />
+    <Alias n="17" Id="(@5 @16)" />
+    <Alias n="18" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/consoleapi2.h" />
+    <Alias n="19" Id="(@5 @18)" />
+    <Alias n="20" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/pshpack2.h" />
+    <Alias n="21" Id="(@5 @20)" />
+    <Alias n="22" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/WinSock2.h" />
+    <Alias n="23" Id="(@5 @22)" />
+    <Alias n="24" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/no_sal2.h" />
+    <Alias n="25" Id="(@5 @24)" />
+    <Alias n="26" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/apiquery2.h" />
+    <Alias n="27" Id="(@5 @26)" />
+    <Alias n="28" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/consoleapi3.h" />
+    <Alias n="29" Id="(@5 @28)" />
+    <Alias n="30" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/pshpack4.h" />
+    <Alias n="31" Id="(@5 @30)" />
+    <Alias n="32" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/pshpack8.h" />
+    <Alias n="33" Id="(@5 @32)" />
+    <Alias n="34" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdlib.h" />
+    <Alias n="35" Id="(@5 @34)" />
+    <Alias n="36" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/stdlib.h" />
+    <Alias n="37" Id="(@5 @36)" />
+    <Alias n="38" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/wnnc.h" />
+    <Alias n="39" Id="(@5 @38)" />
+    <Alias n="40" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpcasync.h" />
+    <Alias n="41" Id="(@5 @40)" />
+    <Alias n="42" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/malloc.h" />
+    <Alias n="43" Id="(@5 @42)" />
+    <Alias n="44" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_malloc.h" />
+    <Alias n="45" Id="(@5 @44)" />
+    <Alias n="46" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpc.h" />
+    <Alias n="47" Id="(@5 @46)" />
+    <Alias n="48" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winresrc.h" />
+    <Alias n="49" Id="(@5 @48)" />
+    <Alias n="50" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/verrsrc.h" />
+    <Alias n="51" Id="(@5 @50)" />
+    <Alias n="52" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winsvc.h" />
+    <Alias n="53" Id="(@5 @52)" />
+    <Alias n="54" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/cguid.h" />
+    <Alias n="55" Id="(@5 @54)" />
+    <Alias n="56" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/lzexpand.h" />
+    <Alias n="57" Id="(@5 @56)" />
+    <Alias n="58" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winscard.h" />
+    <Alias n="59" Id="(@5 @58)" />
+    <Alias n="60" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/winsmcrd.h" />
+    <Alias n="61" Id="(@5 @60)" />
+    <Alias n="62" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/basetsd.h" />
+    <Alias n="63" Id="(@5 @62)" />
+    <Alias n="64" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpcdce.h" />
+    <Alias n="65" Id="(@5 @64)" />
+    <Alias n="66" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/dde.h" />
+    <Alias n="67" Id="(@5 @66)" />
+    <Alias n="68" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ole.h" />
+    <Alias n="69" Id="(@5 @68)" />
+    <Alias n="70" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/vcruntime.h" />
+    <Alias n="71" Id="(@5 @70)" />
+    <Alias n="72" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wtime.h" />
+    <Alias n="73" Id="(@5 @72)" />
+    <Alias n="74" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wctype.h" />
+    <Alias n="75" Id="(@5 @74)" />
+    <Alias n="76" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/ctype.h" />
+    <Alias n="77" Id="(@5 @76)" />
+    <Alias n="78" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_share.h" />
+    <Alias n="79" Id="(@5 @78)" />
+    <Alias n="80" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/objbase.h" />
+    <Alias n="81" Id="(@5 @80)" />
+    <Alias n="82" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ObjIdlbase.h" />
+    <Alias n="83" Id="(@5 @82)" />
+    <Alias n="84" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/PropIdlBase.h" />
+    <Alias n="85" Id="(@5 @84)" />
+    <Alias n="86" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/minwinbase.h" />
+    <Alias n="87" Id="(@5 @86)" />
+    <Alias n="88" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/WinBase.h" />
+    <Alias n="89" Id="(@5 @88)" />
+    <Alias n="90" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/Unknwnbase.h" />
+    <Alias n="91" Id="(@5 @90)" />
+    <Alias n="92" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/WTypesbase.h" />
+    <Alias n="93" Id="(@5 @92)" />
+    <Alias n="94" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/ws2def.h" />
+    <Alias n="95" Id="(@5 @94)" />
+    <Alias n="96" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/guiddef.h" />
+    <Alias n="97" Id="(@5 @96)" />
+    <Alias n="98" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/stddef.h" />
+    <Alias n="99" Id="(@5 @98)" />
+    <Alias n="100" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/minwindef.h" />
+    <Alias n="101" Id="(@5 @100)" />
+    <Alias n="102" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/windef.h" />
+    <Alias n="103" Id="(@5 @102)" />
+    <Alias n="104" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/specstrings_undef.h" />
+    <Alias n="105" Id="(@5 @104)" />
+    <Alias n="106" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/ws2ipdef.h" />
+    <Alias n="107" Id="(@5 @106)" />
+    <Alias n="108" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winperf.h" />
+    <Alias n="109" Id="(@5 @108)" />
+    <Alias n="110" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winreg.h" />
+    <Alias n="111" Id="(@5 @110)" />
+    <Alias n="112" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_stdio_config.h" />
+    <Alias n="113" Id="(@5 @112)" />
+    <Alias n="114" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/commdlg.h" />
+    <Alias n="115" Id="(@5 @114)" />
+    <Alias n="116" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/mbstring.h" />
+    <Alias n="117" Id="(@5 @116)" />
+    <Alias n="118" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstring.h" />
+    <Alias n="119" Id="(@5 @118)" />
+    <Alias n="120" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/string.h" />
+    <Alias n="121" Id="(@5 @120)" />
+    <Alias n="122" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/vcruntime_string.h" />
+    <Alias n="123" Id="(@5 @122)" />
+    <Alias n="124" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/stdarg.h" />
+    <Alias n="125" Id="(@5 @124)" />
+    <Alias n="126" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_search.h" />
+    <Alias n="127" Id="(@5 @126)" />
+    <Alias n="128" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/wingdi.h" />
+    <Alias n="129" Id="(@5 @128)" />
+    <Alias n="130" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/coml2api.h" />
+    <Alias n="131" Id="(@5 @130)" />
+    <Alias n="132" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/jobapi.h" />
+    <Alias n="133" Id="(@5 @132)" />
+    <Alias n="134" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mmiscapi.h" />
+    <Alias n="135" Id="(@5 @134)" />
+    <Alias n="136" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/interlockedapi.h" />
+    <Alias n="137" Id="(@5 @136)" />
+    <Alias n="138" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/playsoundapi.h" />
+    <Alias n="139" Id="(@5 @138)" />
+    <Alias n="140" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/namespaceapi.h" />
+    <Alias n="141" Id="(@5 @140)" />
+    <Alias n="142" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/handleapi.h" />
+    <Alias n="143" Id="(@5 @142)" />
+    <Alias n="144" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/profileapi.h" />
+    <Alias n="145" Id="(@5 @144)" />
+    <Alias n="146" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/fileapi.h" />
+    <Alias n="147" Id="(@5 @146)" />
+    <Alias n="148" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/consoleapi.h" />
+    <Alias n="149" Id="(@5 @148)" />
+    <Alias n="150" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/datetimeapi.h" />
+    <Alias n="151" Id="(@5 @150)" />
+    <Alias n="152" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/timeapi.h" />
+    <Alias n="153" Id="(@5 @152)" />
+    <Alias n="154" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mmeapi.h" />
+    <Alias n="155" Id="(@5 @154)" />
+    <Alias n="156" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/timezoneapi.h" />
+    <Alias n="157" Id="(@5 @156)" />
+    <Alias n="158" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/namedpipeapi.h" />
+    <Alias n="159" Id="(@5 @158)" />
+    <Alias n="160" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/combaseapi.h" />
+    <Alias n="161" Id="(@5 @160)" />
+    <Alias n="162" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/securitybaseapi.h" />
+    <Alias n="163" Id="(@5 @162)" />
+    <Alias n="164" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/enclaveapi.h" />
+    <Alias n="165" Id="(@5 @164)" />
+    <Alias n="166" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/errhandlingapi.h" />
+    <Alias n="167" Id="(@5 @166)" />
+    <Alias n="168" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/debugapi.h" />
+    <Alias n="169" Id="(@5 @168)" />
+    <Alias n="170" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/synchapi.h" />
+    <Alias n="171" Id="(@5 @170)" />
+    <Alias n="172" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mciapi.h" />
+    <Alias n="173" Id="(@5 @172)" />
+    <Alias n="174" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/WSPiApi.h" />
+    <Alias n="175" Id="(@5 @174)" />
+    <Alias n="176" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/joystickapi.h" />
+    <Alias n="177" Id="(@5 @176)" />
+    <Alias n="178" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/shellapi.h" />
+    <Alias n="179" Id="(@5 @178)" />
+    <Alias n="180" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/sysinfoapi.h" />
+    <Alias n="181" Id="(@5 @180)" />
+    <Alias n="182" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/heapapi.h" />
+    <Alias n="183" Id="(@5 @182)" />
+    <Alias n="184" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/dpapi.h" />
+    <Alias n="185" Id="(@5 @184)" />
+    <Alias n="186" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/libloaderapi.h" />
+    <Alias n="187" Id="(@5 @186)" />
+    <Alias n="188" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/processthreadsapi.h" />
+    <Alias n="189" Id="(@5 @188)" />
+    <Alias n="190" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/fibersapi.h" />
+    <Alias n="191" Id="(@5 @190)" />
+    <Alias n="192" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/systemtopologyapi.h" />
+    <Alias n="193" Id="(@5 @192)" />
+    <Alias n="194" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/processtopologyapi.h" />
+    <Alias n="195" Id="(@5 @194)" />
+    <Alias n="196" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/memoryapi.h" />
+    <Alias n="197" Id="(@5 @196)" />
+    <Alias n="198" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/rpcnsi.h" />
+    <Alias n="199" Id="(@5 @198)" />
+    <Alias n="200" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/poppack.h" />
+    <Alias n="201" Id="(@5 @200)" />
+    <Alias n="202" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winsock.h" />
+    <Alias n="203" Id="(@5 @202)" />
+    <Alias n="204" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/wsipv6ok.h" />
+    <Alias n="205" Id="(@5 @204)" />
+    <Alias n="206" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winnetwk.h" />
+    <Alias n="207" Id="(@5 @206)" />
+    <Alias n="208" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpcsal.h" />
+    <Alias n="209" Id="(@5 @208)" />
+    <Alias n="210" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/concurrencysal.h" />
+    <Alias n="211" Id="(@5 @210)" />
+    <Alias n="212" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/sal.h" />
+    <Alias n="213" Id="(@5 @212)" />
+    <Alias n="214" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/OAIdl.h" />
+    <Alias n="215" Id="(@5 @214)" />
+    <Alias n="216" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/oleidl.h" />
+    <Alias n="217" Id="(@5 @216)" />
+    <Alias n="218" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ObjIdl.h" />
+    <Alias n="219" Id="(@5 @218)" />
+    <Alias n="220" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/PropIdl.h" />
+    <Alias n="221" Id="(@5 @220)" />
+    <Alias n="222" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ddeml.h" />
+    <Alias n="223" Id="(@5 @222)" />
+    <Alias n="224" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/msxml.h" />
+    <Alias n="225" Id="(@5 @224)" />
+    <Alias n="226" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winspool.h" />
+    <Alias n="227" Id="(@5 @226)" />
+    <Alias n="228" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winioctl.h" />
+    <Alias n="229" Id="(@5 @228)" />
+    <Alias n="230" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/fcntl.h" />
+    <Alias n="231" Id="(@5 @230)" />
+    <Alias n="232" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mmsystem.h" />
+    <Alias n="233" Id="(@5 @232)" />
+    <Alias n="234" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/imm.h" />
+    <Alias n="235" Id="(@5 @234)" />
+    <Alias n="236" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mmsyscom.h" />
+    <Alias n="237" Id="(@5 @236)" />
+    <Alias n="238" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/stralign.h" />
+    <Alias n="239" Id="(@5 @238)" />
+    <Alias n="240" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/ammintrin.h" />
+    <Alias n="241" Id="(@5 @240)" />
+    <Alias n="242" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/emmintrin.h" />
+    <Alias n="243" Id="(@5 @242)" />
+    <Alias n="244" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/immintrin.h" />
+    <Alias n="245" Id="(@5 @244)" />
+    <Alias n="246" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/nmmintrin.h" />
+    <Alias n="247" Id="(@5 @246)" />
+    <Alias n="248" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/pmmintrin.h" />
+    <Alias n="249" Id="(@5 @248)" />
+    <Alias n="250" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/smmintrin.h" />
+    <Alias n="251" Id="(@5 @250)" />
+    <Alias n="252" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/tmmintrin.h" />
+    <Alias n="253" Id="(@5 @252)" />
+    <Alias n="254" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/wmmintrin.h" />
+    <Alias n="255" Id="(@5 @254)" />
+    <Alias n="256" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/xmmintrin.h" />
+    <Alias n="257" Id="(@5 @256)" />
+    <Alias n="258" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/zmmintrin.h" />
+    <Alias n="259" Id="(@5 @258)" />
+    <Alias n="260" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/mmintrin.h" />
+    <Alias n="261" Id="(@5 @260)" />
+    <Alias n="262" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/intrin.h" />
+    <Alias n="263" Id="(@5 @262)" />
+    <Alias n="264" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/wincon.h" />
+    <Alias n="265" Id="(@5 @264)" />
+    <Alias n="266" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/arm64_neon.h" />
+    <Alias n="267" Id="(@5 @266)" />
+    <Alias n="268" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/arm_neon.h" />
+    <Alias n="269" Id="(@5 @268)" />
+    <Alias n="270" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/urlmon.h" />
+    <Alias n="271" Id="(@5 @270)" />
+    <Alias n="272" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/reason.h" />
+    <Alias n="273" Id="(@5 @272)" />
+    <Alias n="274" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/Unknwn.h" />
+    <Alias n="275" Id="(@5 @274)" />
+    <Alias n="276" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdio.h" />
+    <Alias n="277" Id="(@5 @276)" />
+    <Alias n="278" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/stdio.h" />
+    <Alias n="279" Id="(@5 @278)" />
+    <Alias n="280" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wconio.h" />
+    <Alias n="281" Id="(@5 @280)" />
+    <Alias n="282" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wio.h" />
+    <Alias n="283" Id="(@5 @282)" />
+    <Alias n="284" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/io.h" />
+    <Alias n="285" Id="(@5 @284)" />
+    <Alias n="286" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_io.h" />
+    <Alias n="287" Id="(@5 @286)" />
+    <Alias n="288" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/errno.h" />
+    <Alias n="289" Id="(@5 @288)" />
+    <Alias n="290" Uri="File=$(VsSolutionUri)/MessangerServer/MsgProto.h" />
+    <Alias n="291" Id="(@1 @290)" />
+    <Alias n="292" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/OleAuto.h" />
+    <Alias n="293" Id="(@5 @292)" />
+    <Alias n="294" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpcdcep.h" />
+    <Alias n="295" Id="(@5 @294)" />
+    <Alias n="296" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/WS2tcpip.h" />
+    <Alias n="297" Id="(@5 @296)" />
+    <Alias n="298" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/rpcnsip.h" />
+    <Alias n="299" Id="(@5 @298)" />
+    <Alias n="300" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/setjmp.h" />
+    <Alias n="301" Id="(@5 @300)" />
+    <Alias n="302" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/tchar.h" />
+    <Alias n="303" Id="(@5 @302)" />
+    <Alias n="304" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/wchar.h" />
+    <Alias n="305" Id="(@5 @304)" />
+    <Alias n="306" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/in6addr.h" />
+    <Alias n="307" Id="(@5 @306)" />
+    <Alias n="308" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/inaddr.h" />
+    <Alias n="309" Id="(@5 @308)" />
+    <Alias n="310" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpcndr.h" />
+    <Alias n="311" Id="(@5 @310)" />
+    <Alias n="312" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/securityappcontainer.h" />
+    <Alias n="313" Id="(@5 @312)" />
+    <Alias n="314" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/WinUser.h" />
+    <Alias n="315" Id="(@5 @314)" />
+    <Alias n="316" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/sdkddkver.h" />
+    <Alias n="317" Id="(@5 @316)" />
+    <Alias n="318" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winver.h" />
+    <Alias n="319" Id="(@5 @318)" />
+    <Alias n="320" Uri="File=$(VsSolutionUri)/MessangerServer/MsgProtoServer.h" />
+    <Alias n="321" Id="(@1 @320)" />
+    <Alias n="322" Uri="File=$(VsSolutionUri)/messangerserver/messangerserver.h" />
+    <Alias n="323" Uri="File=$(VsSolutionUri)/MessangerServer/MessengerServer.h" />
+    <Alias n="324" Id="(@1 @323)" />
+    <Alias n="325" Uri="File=$(VsSolutionUri)/MessangerServer/targetver.h" />
+    <Alias n="326" Id="(@1 @325)" />
+    <Alias n="327" Uri="File=$(VsSolutionUri)/MessangerClient/targetver.h" />
+    <Alias n="328" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/winerror.h" />
+    <Alias n="329" Id="(@5 @328)" />
+    <Alias n="330" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/cderr.h" />
+    <Alias n="331" Id="(@5 @330)" />
+    <Alias n="332" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/SCardErr.h" />
+    <Alias n="333" Id="(@5 @332)" />
+    <Alias n="334" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/rpcnterr.h" />
+    <Alias n="335" Id="(@5 @334)" />
+    <Alias n="336" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/arm64intr.h" />
+    <Alias n="337" Id="(@5 @336)" />
+    <Alias n="338" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/armintr.h" />
+    <Alias n="339" Id="(@5 @338)" />
+    <Alias n="340" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/kernelspecs.h" />
+    <Alias n="341" Id="(@5 @340)" />
+    <Alias n="342" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/driverspecs.h" />
+    <Alias n="343" Id="(@5 @342)" />
+    <Alias n="344" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/sdv_driverspecs.h" />
+    <Alias n="345" Id="(@5 @344)" />
+    <Alias n="346" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ime_cmodes.h" />
+    <Alias n="347" Id="(@5 @346)" />
+    <Alias n="348" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/ktmtypes.h" />
+    <Alias n="349" Id="(@5 @348)" />
+    <Alias n="350" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/wincontypes.h" />
+    <Alias n="351" Id="(@5 @350)" />
+    <Alias n="352" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/wtypes.h" />
+    <Alias n="353" Id="(@5 @352)" />
+    <Alias n="354" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/sys/types.h" />
+    <Alias n="355" Id="(@5 @354)" />
+    <Alias n="356" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/vadefs.h" />
+    <Alias n="357" Id="(@5 @356)" />
+    <Alias n="358" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winefs.h" />
+    <Alias n="359" Id="(@5 @358)" />
+    <Alias n="360" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/dlgs.h" />
+    <Alias n="361" Id="(@5 @360)" />
+    <Alias n="362" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/specstrings.h" />
+    <Alias n="363" Id="(@5 @362)" />
+    <Alias n="364" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/WinNls.h" />
+    <Alias n="365" Id="(@5 @364)" />
+    <Alias n="366" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/CodeAnalysis/sourceannotations.h" />
+    <Alias n="367" Id="(@5 @366)" />
+    <Alias n="368" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/qos.h" />
+    <Alias n="369" Id="(@5 @368)" />
+    <Alias n="370" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wprocess.h" />
+    <Alias n="371" Id="(@5 @370)" />
+    <Alias n="372" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/limits.h" />
+    <Alias n="373" Id="(@5 @372)" />
+    <Alias n="374" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/Windows.h" />
+    <Alias n="375" Id="(@5 @374)" />
+    <Alias n="376" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_memcpy_s.h" />
+    <Alias n="377" Id="(@5 @376)" />
+    <Alias n="378" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/sys/stat.h" />
+    <Alias n="379" Id="(@5 @378)" />
+    <Alias n="380" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wdirect.h" />
+    <Alias n="381" Id="(@5 @380)" />
+    <Alias n="382" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/specstrings_strict.h" />
+    <Alias n="383" Id="(@5 @382)" />
+    <Alias n="384" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/wow64apiset.h" />
+    <Alias n="385" Id="(@5 @384)" />
+    <Alias n="386" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/realtimeapiset.h" />
+    <Alias n="387" Id="(@5 @386)" />
+    <Alias n="388" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/stringapiset.h" />
+    <Alias n="389" Id="(@5 @388)" />
+    <Alias n="390" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/utilapiset.h" />
+    <Alias n="391" Id="(@5 @390)" />
+    <Alias n="392" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/threadpoolapiset.h" />
+    <Alias n="393" Id="(@5 @392)" />
+    <Alias n="394" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ioapiset.h" />
+    <Alias n="395" Id="(@5 @394)" />
+    <Alias n="396" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/threadpoollegacyapiset.h" />
+    <Alias n="397" Id="(@5 @396)" />
+    <Alias n="398" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/apiset.h" />
+    <Alias n="399" Id="(@5 @398)" />
+    <Alias n="400" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/prsht.h" />
+    <Alias n="401" Id="(@5 @400)" />
+    <Alias n="402" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/stdint.h" />
+    <Alias n="403" Id="(@5 @402)" />
+    <Alias n="404" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winnt.h" />
+    <Alias n="405" Id="(@5 @404)" />
+    <Alias n="406" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/excpt.h" />
+    <Alias n="407" Id="(@5 @406)" />
+    <Alias n="408" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/bcrypt.h" />
+    <Alias n="409" Id="(@5 @408)" />
+    <Alias n="410" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/wincrypt.h" />
+    <Alias n="411" Id="(@5 @410)" />
+    <Alias n="412" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/ncrypt.h" />
+    <Alias n="413" Id="(@5 @412)" />
+    <Alias n="414" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt.h" />
+    <Alias n="415" Id="(@5 @414)" />
+    <Alias n="416" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/ipv6prefast.h" />
+    <Alias n="417" Id="(@5 @416)" />
+    <Alias n="418" Uri="File=$(VsSolutionUri)/MessangerServer/list.h" />
+    <Alias n="419" Id="(@1 @418)" />
+    <Alias n="420" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/tvout.h" />
+    <Alias n="421" Id="(@5 @420)" />
+    <Alias n="422" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/processenv.h" />
+    <Alias n="423" Id="(@5 @422)" />
+    <Alias n="424" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/apisetcconv.h" />
+    <Alias n="425" Id="(@5 @424)" />
+    <Alias n="426" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/servprov.h" />
+    <Alias n="427" Id="(@5 @426)" />
+    <Alias n="428" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/mm3dnow.h" />
+    <Alias n="429" Id="(@5 @428)" />
+    <Alias n="430" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/mcx.h" />
+    <Alias n="431" Id="(@5 @430)" />
+    <Alias n="432" Uri="File=$(VsInstallDirUri)/VC/Tools/MSVC/14.16.27023/include/setjmpex.h" />
+    <Alias n="433" Id="(@5 @432)" />
+    <Alias n="434" Uri="File=$(VsSolutionUri)/MessangerServer/stdafx.h" />
+    <Alias n="435" Id="(@1 @434)" />
+    <Alias n="436" Uri="File=$(VsSolutionUri)/MessangerClient/stdafx.h" />
+    <Alias n="437" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/winpackagefamily.h" />
+    <Alias n="438" Id="(@5 @437)" />
+    <Alias n="439" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/shared/winapifamily.h" />
+    <Alias n="440" Id="(@5 @439)" />
+    <Alias n="441" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_memory.h" />
+    <Alias n="442" Id="(@5 @441)" />
+    <Alias n="443" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/dde.rh" />
+    <Alias n="444" Id="(@5 @443)" />
+    <Alias n="445" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/commctrl.rh" />
+    <Alias n="446" Id="(@5 @445)" />
+    <Alias n="447" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winuser.rh" />
+    <Alias n="448" Id="(@5 @447)" />
+    <Alias n="449" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winnt.rh" />
+    <Alias n="450" Id="(@5 @449)" />
+    <Alias n="451" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winbase.inl" />
+    <Alias n="452" Id="(@5 @451)" />
+    <Alias n="453" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/commdlg.inl" />
+    <Alias n="454" Id="(@5 @453)" />
+    <Alias n="455" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/winuser.inl" />
+    <Alias n="456" Id="(@5 @455)" />
+    <Alias n="457" Uri="File=$(ProgramFilesUri)/Windows Kits/10/Include/10.0.17763.0/um/prsht.inl" />
+    <Alias n="458" Id="(@5 @457)" />
+    <Alias n="459" Uri="File=$(VsSolutionUri)/MessangerServer/MsgProtoServer.cpp" />
+    <Alias n="460" Uri="File=$(VsSolutionUri)/messangerserver/messangerserver.cpp" />
+    <Alias n="461" Uri="File=$(VsSolutionUri)/MessangerServer/MessengerServer.cpp" />
+    <Alias n="462" Id="(@1 @461)" />
+    <Alias n="463" Uri="File=$(VsSolutionUri)/messangerclient/messangerclient.cpp" />
+    <Alias n="464" Uri="File=$(VsSolutionUri)/MessangerClient/MessengerClient.cpp" />
+    <Alias n="465" Uri="File=$(VsSolutionUri)/MessangerServer/stdafx.cpp" />
+    <Alias n="466" Uri="File=$(VsSolutionUri)/MessangerClient/stdafx.cpp" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="C++ Project File" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_PoundIncludeFile')" />
+      <Setter Property="Background" Value="#FFEFEFEF" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FFA08080" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Source File" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_ProjectItem')" />
+      <Setter Property="Background" Value="#FFC0C0C0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="#include Group" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_PoundIncludeGroup')" />
+      <Setter Property="Background" Value="#FFEFEFEF" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="ProgramFiles" Value="C:\Program Files (x86)" />
+    <Path Id="ProgramFilesUri" Value="file:///C:/Program Files (x86)" />
+    <Path Id="VsInstallDir" Value="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise" />
+    <Path Id="VsInstallDirUri" Value="file:///C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise" />
+    <Path Id="VsSolution" Value="E:\Projects\Messenger" />
+    <Path Id="VsSolutionUri" Value="file:///E:/Projects/Messenger" />
+  </Paths>
+</DirectedGraph>

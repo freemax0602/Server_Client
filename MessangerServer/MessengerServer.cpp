@@ -90,6 +90,7 @@ SendMessageToClient(char* message, size_t comm_fd)
 
 		//берем следущего клиента
 		pCurrentClientInfo = (PCLIENT_INFO)pCurrentClientInfo->pListEntry.Flink;
+		
 	}
 
 	return;
@@ -153,7 +154,7 @@ int main()
 		setsockopt(comm_fd, SOL_SOCKET, SO_RCVTIMEO, (char*)&timeout, sizeof(timeout));
 
 		PCLIENT_INFO pClientInfo = (PCLIENT_INFO)malloc(sizeof(CLIENT_INFO));
-
+		free(pClientInfo);
 		pClientInfo->comm_fd = comm_fd;
 
 		InsertTailList(&g_server_info.ClientsListHead, &pClientInfo->pListEntry);
